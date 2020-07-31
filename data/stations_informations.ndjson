@@ -1,0 +1,1028 @@
+{"type":"Feature","properties":{"station_id":72,"name":"W 52 St & 11 Ave","capacity":55,"short_name":"6926.01"},"geometry":{"coordinates":[-73.99392888,40.76727216],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":79,"name":"Franklin St & W Broadway","capacity":33,"short_name":"5430.08"},"geometry":{"coordinates":[-74.00666661,40.71911552],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":82,"name":"St James Pl & Pearl St","capacity":27,"short_name":"5167.06"},"geometry":{"coordinates":[-74.00016545,40.71117416],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":83,"name":"Atlantic Ave & Fort Greene Pl","capacity":62,"short_name":"4354.07"},"geometry":{"coordinates":[-73.97632328,40.68382604],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":116,"name":"W 17 St & 8 Ave","capacity":50,"short_name":"6148.02"},"geometry":{"coordinates":[-74.00149746,40.74177603],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":119,"name":"Park Ave & St Edwards St","capacity":19,"short_name":"4700.06"},"geometry":{"coordinates":[-73.97803415,40.69608941],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":120,"name":"Lexington Ave & Classon Ave","capacity":19,"short_name":"4452.03"},"geometry":{"coordinates":[-73.95928168,40.68676793],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":127,"name":"Barrow St & Hudson St","capacity":31,"short_name":"5805.05"},"geometry":{"coordinates":[-74.00674436,40.73172428],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":128,"name":"MacDougal St & Prince St","capacity":30,"short_name":"5687.04"},"geometry":{"coordinates":[-74.00297088,40.72710258],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":143,"name":"Clinton St & Joralemon St","capacity":24,"short_name":"4605.04"},"geometry":{"coordinates":[-73.99337909,40.69239502],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":144,"name":"Nassau St & Navy St","capacity":58,"short_name":"4812.02"},"geometry":{"coordinates":[-73.98068914,40.69839895],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":146,"name":"Hudson St & Reade St","capacity":39,"short_name":"5359.10"},"geometry":{"coordinates":[-74.0091059,40.71625008],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":150,"name":"E 2 St & Avenue C","capacity":55,"short_name":"5476.03"},"geometry":{"coordinates":[-73.98085795,40.7208736],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":151,"name":"Cleveland Pl & Spring St","capacity":33,"short_name":"5492.05"},"geometry":{"coordinates":[-73.99724900722504,40.722103786686034],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":157,"name":"Henry St & Atlantic Ave","capacity":23,"short_name":"4531.05"},"geometry":{"coordinates":[-73.99612349,40.69089272],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":161,"name":"LaGuardia Pl & W 3 St","capacity":35,"short_name":"5721.14"},"geometry":{"coordinates":[-73.99810231,40.72917025],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":164,"name":"E 47 St & 2 Ave","capacity":47,"short_name":"6498.10"},"geometry":{"coordinates":[-73.97032517,40.75323098],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":167,"name":"E 39 St & 3 Ave","capacity":45,"short_name":"6389.03"},"geometry":{"coordinates":[-73.97604882,40.7489006],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":168,"name":"W 18 St & 6 Ave","capacity":0,"short_name":"6064.08"},"geometry":{"coordinates":[-73.99456405,40.73971301],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":173,"name":"Broadway & W 49 St","capacity":70,"short_name":"6708.02"},"geometry":{"coordinates":[-73.9845272898674,40.76068327096592],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":174,"name":"E 25 St & 1 Ave","capacity":30,"short_name":"6004.07"},"geometry":{"coordinates":[-73.97738662,40.7381765],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":195,"name":"Liberty St & Broadway","capacity":45,"short_name":"5105.01"},"geometry":{"coordinates":[-74.01043382,40.70905623],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":212,"name":"W 16 St & The High Line","capacity":60,"short_name":"6233.05"},"geometry":{"coordinates":[-74.00681753,40.74334935],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":216,"name":"Columbia Heights & Cranberry St","capacity":23,"short_name":"4829.01"},"geometry":{"coordinates":[-73.99548059,40.70037867],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":217,"name":"Old Fulton St","capacity":39,"short_name":"4903.08"},"geometry":{"coordinates":[-73.99383605,40.70277159],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":223,"name":"W 13 St & 7 Ave","capacity":33,"short_name":"6030.04"},"geometry":{"coordinates":[-73.99994661,40.73781509],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":224,"name":"Spruce St & Nassau St","capacity":30,"short_name":"5137.10"},"geometry":{"coordinates":[-74.00552427,40.71146364],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":228,"name":"E 48 St & 3 Ave","capacity":55,"short_name":"6541.03"},"geometry":{"coordinates":[-73.971878855,40.7546011026],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":229,"name":"Great Jones St","capacity":23,"short_name":"5636.11"},"geometry":{"coordinates":[-73.99379025,40.72743423],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":236,"name":"St Marks Pl & 2 Ave","capacity":47,"short_name":"5669.10"},"geometry":{"coordinates":[-73.98713956,40.7284186],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":237,"name":"E 11 St & 2 Ave","capacity":39,"short_name":"5746.04"},"geometry":{"coordinates":[-73.98672378,40.73047309],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":238,"name":"Bank St & Washington St","capacity":31,"short_name":"5964.01"},"geometry":{"coordinates":[-74.00859207,40.7361967],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":239,"name":"Willoughby St & Fleet St","capacity":31,"short_name":"4628.05"},"geometry":{"coordinates":[-73.9813018,40.69196566],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":241,"name":"DeKalb Ave & S Portland Ave","capacity":23,"short_name":"4546.04"},"geometry":{"coordinates":[-73.97493121,40.68981035],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":242,"name":"Carlton Ave & Flushing Ave","capacity":46,"short_name":"4732.08"},"geometry":{"coordinates":[-73.973736,40.697787],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":244,"name":"Willoughby Ave & Hall St","capacity":31,"short_name":"4611.03"},"geometry":{"coordinates":[-73.96536851,40.69196035],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":245,"name":"Myrtle Ave & St Edwards St","capacity":23,"short_name":"4659.02"},"geometry":{"coordinates":[-73.97703874,40.69327018],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":247,"name":"Perry St & Bleecker St","capacity":55,"short_name":"5922.07"},"geometry":{"coordinates":[-74.00483091,40.73535398],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":248,"name":"Laight St & Hudson St","capacity":23,"short_name":"5539.06"},"geometry":{"coordinates":[-74.00771779,40.72185379],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":249,"name":"Harrison St & Hudson St","capacity":27,"short_name":"5400.05"},"geometry":{"coordinates":[-74.0090009,40.71870987],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":250,"name":"Lafayette St & Jersey St","capacity":40,"short_name":"5561.06"},"geometry":{"coordinates":[-73.99565293,40.72456089],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":251,"name":"Mott St & Prince St","capacity":27,"short_name":"5561.04"},"geometry":{"coordinates":[-73.99480012,40.72317958],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":252,"name":"MacDougal St & Washington Sq","capacity":33,"short_name":"5797.01"},"geometry":{"coordinates":[-73.99852205,40.73226398],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":254,"name":"W 11 St & 6 Ave","capacity":47,"short_name":"5914.03"},"geometry":{"coordinates":[-73.99800419,40.73532427],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":257,"name":"Lispenard St & Broadway","capacity":39,"short_name":"5391.06"},"geometry":{"coordinates":[-74.00247214,40.71939226],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":258,"name":"DeKalb Ave & Vanderbilt Ave","capacity":23,"short_name":"4461.04"},"geometry":{"coordinates":[-73.96885458,40.68940747],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":259,"name":"South St & Whitehall St","capacity":39,"short_name":"4846.01"},"geometry":{"coordinates":[-74.01234218,40.70122128],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":260,"name":"Broad St & Bridge St","capacity":33,"short_name":"4962.08"},"geometry":{"coordinates":[-74.01167797,40.70365182],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":261,"name":"Johnson St & Gold St","capacity":27,"short_name":"4668.08"},"geometry":{"coordinates":[-73.98362464,40.69474881],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":262,"name":"Washington Park","capacity":24,"short_name":"4546.05"},"geometry":{"coordinates":[-73.9737299,40.6917823],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":264,"name":"Maiden Ln & Pearl St","capacity":27,"short_name":"5065.10"},"geometry":{"coordinates":[-74.00731853,40.70706456],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":265,"name":"Stanton St & Chrystie St","capacity":35,"short_name":"5523.02"},"geometry":{"coordinates":[-73.99147535,40.72229346],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":267,"name":"Broadway & W 36 St","capacity":78,"short_name":"6441.01"},"geometry":{"coordinates":[-73.98765428,40.75097711],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":268,"name":"Howard St & Centre St","capacity":27,"short_name":"5422.04"},"geometry":{"coordinates":[-73.99973337,40.71910537],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":270,"name":"Adelphi St & Myrtle Ave","capacity":23,"short_name":"4620.02"},"geometry":{"coordinates":[-73.97178913,40.69308257],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":274,"name":"Lafayette Ave & Fort Greene Pl","capacity":31,"short_name":"4395.04"},"geometry":{"coordinates":[-73.976682,40.68691865],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":275,"name":"Washington Ave & Greene Ave","capacity":19,"short_name":"4419.03"},"geometry":{"coordinates":[-73.96563307,40.68650065],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":276,"name":"Duane St & Greenwich St","capacity":25,"short_name":"5400.08"},"geometry":{"coordinates":[-74.0104554,40.71748752],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":278,"name":"Concord St & Bridge St","capacity":19,"short_name":"4781.03"},"geometry":{"coordinates":[-73.98476437,40.69766564],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":280,"name":"E 10 St & 5 Ave","capacity":59,"short_name":"5872.08"},"geometry":{"coordinates":[-73.99510132,40.73331967],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":281,"name":"Grand Army Plaza & Central Park S","capacity":66,"short_name":"6839.10"},"geometry":{"coordinates":[-73.97371465,40.7643971],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":282,"name":"Kent Ave & S 11 St","capacity":27,"short_name":"5062.01"},"geometry":{"coordinates":[-73.96841526031494,40.707644944175705],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":284,"name":"Greenwich Ave & 8 Ave","capacity":43,"short_name":"6072.06"},"geometry":{"coordinates":[-74.0026376103,40.7390169121],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":285,"name":"Broadway & E 14 St","capacity":53,"short_name":"5905.12"},"geometry":{"coordinates":[-73.99074142,40.73454567],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":289,"name":"Monroe St & Classon Ave","capacity":19,"short_name":"4336.01"},"geometry":{"coordinates":[-73.95881081,40.6845683],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":291,"name":"Madison St & Montgomery St","capacity":20,"short_name":"5262.09"},"geometry":{"coordinates":[-73.984844,40.713126],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":293,"name":"Lafayette St & E 8 St","capacity":55,"short_name":"5788.13"},"geometry":{"coordinates":[-73.99102628231049,40.73020660529954],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":295,"name":"Pike St & E Broadway","capacity":24,"short_name":"5270.05"},"geometry":{"coordinates":[-73.99293911,40.71406667],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":297,"name":"E 15 St & 3 Ave","capacity":26,"short_name":"5863.07"},"geometry":{"coordinates":[-73.986923,40.734232],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":298,"name":"3 Ave & Schermerhorn St","capacity":35,"short_name":"4437.01"},"geometry":{"coordinates":[-73.9796772,40.68683208],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":301,"name":"E 2 St & Avenue B","capacity":58,"short_name":"5515.02"},"geometry":{"coordinates":[-73.98368779,40.72217444],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":302,"name":"Avenue D & E 3 St","capacity":23,"short_name":"5436.09"},"geometry":{"coordinates":[-73.97793172,40.72082834],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":303,"name":"Mercer St & Spring St","capacity":67,"short_name":"5532.01"},"geometry":{"coordinates":[-73.99949601,40.72362738],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":304,"name":"Broadway & Battery Pl","capacity":33,"short_name":"4962.01"},"geometry":{"coordinates":[-74.01361706,40.70463334],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":305,"name":"E 58 St & 3 Ave","capacity":33,"short_name":"6762.02"},"geometry":{"coordinates":[-73.96724467,40.76095756],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":307,"name":"Canal St & Rutgers St","capacity":30,"short_name":"5303.08"},"geometry":{"coordinates":[-73.98990025,40.71427487],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":308,"name":"St James Pl & Oliver St","capacity":27,"short_name":"5238.05"},"geometry":{"coordinates":[-73.99851193,40.71307916],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":309,"name":"Murray St & West St","capacity":41,"short_name":"5329.06"},"geometry":{"coordinates":[-74.013012,40.7149787],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":310,"name":"State St & Smith St","capacity":36,"short_name":"4565.06"},"geometry":{"coordinates":[-73.98912867,40.68926942],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":311,"name":"Norfolk St & Broome St","capacity":31,"short_name":"5374.01"},"geometry":{"coordinates":[-73.98802084,40.7172274],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":312,"name":"Allen St & Stanton St","capacity":31,"short_name":"5484.09"},"geometry":{"coordinates":[-73.989111,40.722055],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":313,"name":"Washington Ave & Park Ave","capacity":23,"short_name":"4724.03"},"geometry":{"coordinates":[-73.96751037,40.69610226],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":315,"name":"South St & Gouverneur Ln","capacity":29,"short_name":"4953.04"},"geometry":{"coordinates":[-74.00670227,40.70355377],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":316,"name":"Fulton St & William St","capacity":43,"short_name":"5137.11"},"geometry":{"coordinates":[-74.00653609,40.70955958],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":317,"name":"E 6 St & Avenue B","capacity":54,"short_name":"5584.04"},"geometry":{"coordinates":[-73.98185424,40.72453734],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":319,"name":"Fulton St & Broadway","capacity":33,"short_name":"5175.08"},"geometry":{"coordinates":[-74.009447,40.711066],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":320,"name":"Leonard St & Church St","capacity":39,"short_name":"5359.11"},"geometry":{"coordinates":[-74.005549,40.717571],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":321,"name":"Cadman Plaza E & Red Cross Pl","capacity":27,"short_name":"4821.06"},"geometry":{"coordinates":[-73.98971773,40.69991755],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":323,"name":"Lawrence St & Willoughby St","capacity":39,"short_name":"4596.09"},"geometry":{"coordinates":[-73.98631746,40.69236178],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":324,"name":"DeKalb Ave & Hudson Ave","capacity":51,"short_name":"4513.06"},"geometry":{"coordinates":[-73.981013,40.689888],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":325,"name":"E 19 St & 3 Ave","capacity":35,"short_name":"5938.01"},"geometry":{"coordinates":[-73.98473765,40.73624527],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":326,"name":"E 11 St & 1 Ave","capacity":41,"short_name":"5746.14"},"geometry":{"coordinates":[-73.98426726,40.72953837],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":327,"name":"Vesey Pl & River Terrace","capacity":39,"short_name":"5297.02"},"geometry":{"coordinates":[-74.01658354,40.7153379],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":328,"name":"Watts St & Greenwich St","capacity":23,"short_name":"5578.02"},"geometry":{"coordinates":[-74.00965965,40.72405549],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":330,"name":"Reade St & Broadway","capacity":39,"short_name":"5247.10"},"geometry":{"coordinates":[-74.00562789,40.71450451],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":331,"name":"Pike St & Monroe St","capacity":27,"short_name":"5159.04"},"geometry":{"coordinates":[-73.99193043,40.71173107],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":332,"name":"Cherry St","capacity":36,"short_name":"5181.04"},"geometry":{"coordinates":[-73.97948148,40.71219906],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":334,"name":"W 20 St & 7 Ave","capacity":31,"short_name":"6182.02"},"geometry":{"coordinates":[-73.99726235,40.74238787],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":335,"name":"Washington Pl & Broadway","capacity":27,"short_name":"5755.01"},"geometry":{"coordinates":[-73.99404649,40.72903917],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":336,"name":"Sullivan St & Washington Sq","capacity":36,"short_name":"5721.01"},"geometry":{"coordinates":[-73.99906065,40.73047747],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":339,"name":"Avenue D & E 12 St","capacity":30,"short_name":"5575.08"},"geometry":{"coordinates":[-73.97422494,40.72580614],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":340,"name":"Madison St & Clinton St","capacity":27,"short_name":"5190.07"},"geometry":{"coordinates":[-73.98776323,40.71269042],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":341,"name":"Stanton St & Mangin St","capacity":19,"short_name":"5326.06"},"geometry":{"coordinates":[-73.97628939,40.71782143],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":342,"name":"Columbia St & Rivington St","capacity":29,"short_name":"5365.02"},"geometry":{"coordinates":[-73.98016555,40.71739973],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":343,"name":"Clinton Ave & Flushing Ave","capacity":23,"short_name":"4762.04"},"geometry":{"coordinates":[-73.96986848,40.69794],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":344,"name":"Monroe St & Bedford Ave","capacity":23,"short_name":"4368.05"},"geometry":{"coordinates":[-73.95380904,40.6851443],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":346,"name":"Bank St & Hudson St","capacity":27,"short_name":"5922.08"},"geometry":{"coordinates":[-74.00618026,40.73652889],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":347,"name":"Greenwich St & W Houston St","capacity":35,"short_name":"5730.08"},"geometry":{"coordinates":[-74.008591,40.728846],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":349,"name":"Rivington St & Ridge St","capacity":61,"short_name":"5406.02"},"geometry":{"coordinates":[-73.98329859,40.71850211],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":350,"name":"Clinton St & Grand St","capacity":28,"short_name":"5303.06"},"geometry":{"coordinates":[-73.9870295,40.71559509],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":351,"name":"Front St & Maiden Ln","capacity":39,"short_name":"5024.08"},"geometry":{"coordinates":[-74.00612572,40.70530954],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":353,"name":"S Portland Ave & Hanson Pl","capacity":27,"short_name":"4354.05"},"geometry":{"coordinates":[-73.97431458,40.68539567],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":354,"name":"Emerson Pl & Myrtle Ave","capacity":47,"short_name":"4683.02"},"geometry":{"coordinates":[-73.96223558,40.69363137],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":355,"name":"Bayard St & Baxter St","capacity":43,"short_name":"5351.03"},"geometry":{"coordinates":[-73.99974372,40.71602118],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":356,"name":"Bialystoker Pl & Delancey St","capacity":23,"short_name":"5335.03"},"geometry":{"coordinates":[-73.98261206,40.71622644],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":358,"name":"Christopher St & Greenwich St","capacity":50,"short_name":"5847.01"},"geometry":{"coordinates":[-74.00711384,40.73291553],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":359,"name":"E 47 St & Park Ave","capacity":65,"short_name":"6584.12"},"geometry":{"coordinates":[-73.97498696,40.75510267],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":360,"name":"William St & Pine St","capacity":39,"short_name":"5065.12"},"geometry":{"coordinates":[-74.00887308,40.70717936],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":361,"name":"Allen St & Hester St","capacity":43,"short_name":"5342.10"},"geometry":{"coordinates":[-73.99190759,40.71605866],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":362,"name":"Broadway & W 37 St","capacity":57,"short_name":"6441.02"},"geometry":{"coordinates":[-73.98753523,40.75172632],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":363,"name":"West Thames St","capacity":49,"short_name":"5114.06"},"geometry":{"coordinates":[-74.01713445,40.70834698],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":364,"name":"Lafayette Ave & Classon Ave","capacity":27,"short_name":"4452.01"},"geometry":{"coordinates":[-73.96023854,40.68900443],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":366,"name":"Clinton Ave & Myrtle Ave","capacity":33,"short_name":"4651.02"},"geometry":{"coordinates":[-73.968896,40.693261],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":367,"name":"E 53 St & Lexington Ave","capacity":33,"short_name":"6617.09"},"geometry":{"coordinates":[-73.97069431,40.75828065],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":368,"name":"Carmine St & 6 Ave","capacity":39,"short_name":"5763.03"},"geometry":{"coordinates":[-74.00214988,40.73038599],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":369,"name":"Washington Pl & 6 Ave","capacity":60,"short_name":"5838.09"},"geometry":{"coordinates":[-74.00026394,40.73224119],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":372,"name":"Franklin Ave & Myrtle Ave","capacity":27,"short_name":"4715.01"},"geometry":{"coordinates":[-73.95801365375519,40.694546087246025],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":373,"name":"Willoughby Ave & Walworth St","capacity":19,"short_name":"4634.02"},"geometry":{"coordinates":[-73.95381995,40.69331716],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":376,"name":"John St & William St","capacity":43,"short_name":"5065.04"},"geometry":{"coordinates":[-74.00722156,40.70862144],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":377,"name":"6 Ave & Canal St","capacity":48,"short_name":"5500.07"},"geometry":{"coordinates":[-74.00566443,40.72243797],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":379,"name":"W 31 St & 7 Ave","capacity":42,"short_name":"6331.01"},"geometry":{"coordinates":[-73.9916,40.749156],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":380,"name":"W 4 St & 7 Ave S","capacity":42,"short_name":"5880.02"},"geometry":{"coordinates":[-74.00293877,40.73401143],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":383,"name":"Greenwich Ave & Charles St","capacity":39,"short_name":"5914.08"},"geometry":{"coordinates":[-74.000271,40.735238],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":385,"name":"E 55 St & 2 Ave","capacity":29,"short_name":"6650.07"},"geometry":{"coordinates":[-73.96603308,40.75797322],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":386,"name":"Centre St & Worth St","capacity":43,"short_name":"5279.03"},"geometry":{"coordinates":[-74.00234482,40.71494807],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":387,"name":"Centre St & Chambers St","capacity":39,"short_name":"5207.01"},"geometry":{"coordinates":[-74.0046073,40.71273266],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":388,"name":"W 26 St & 10 Ave","capacity":35,"short_name":"6382.05"},"geometry":{"coordinates":[-74.002950346,40.749717753],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":389,"name":"Broadway & Berry St","capacity":27,"short_name":"5164.04"},"geometry":{"coordinates":[-73.96525063,40.71044554],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":390,"name":"Duffield St & Willoughby St","capacity":31,"short_name":"4596.05"},"geometry":{"coordinates":[-73.9842844,40.69221589],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":391,"name":"Clark St & Henry St","capacity":31,"short_name":"4789.03"},"geometry":{"coordinates":[-73.99344559,40.69760127],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":392,"name":"Jay St & Tech Pl","capacity":35,"short_name":"4710.06"},"geometry":{"coordinates":[-73.987167,40.695065],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":393,"name":"E 5 St & Avenue C","capacity":37,"short_name":"5545.04"},"geometry":{"coordinates":[-73.97995466,40.72299208],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":394,"name":"E 9 St & Avenue C","capacity":34,"short_name":"5616.01"},"geometry":{"coordinates":[-73.97768752,40.72521311],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":396,"name":"Lefferts Pl & Franklin Ave","capacity":25,"short_name":"4222.02"},"geometry":{"coordinates":[-73.9557689392,40.680342423],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":397,"name":"Fulton St & Clermont Ave","capacity":27,"short_name":"4386.05"},"geometry":{"coordinates":[-73.96922273,40.68415748],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":398,"name":"Atlantic Ave & Furman St","capacity":31,"short_name":"4614.04"},"geometry":{"coordinates":[-73.9999786,40.69165183],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":399,"name":"Lafayette Ave & St James Pl","capacity":27,"short_name":"4494.04"},"geometry":{"coordinates":[-73.9647628,40.68851534],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":400,"name":"Pitt St & Stanton St","capacity":15,"short_name":"5406.04"},"geometry":{"coordinates":[-73.98178024,40.71926081],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":401,"name":"Allen St & Rivington St","capacity":42,"short_name":"5414.06"},"geometry":{"coordinates":[-73.98997825,40.72019576],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":402,"name":"Broadway & E 22 St","capacity":39,"short_name":"6098.07"},"geometry":{"coordinates":[-73.98955109,40.7403432],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":403,"name":"E 2 St & 2 Ave","capacity":31,"short_name":"5593.02"},"geometry":{"coordinates":[-73.99069656,40.72502876],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":405,"name":"Washington St & Gansevoort St","capacity":51,"short_name":"6039.06"},"geometry":{"coordinates":[-74.008119,40.739323],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":406,"name":"Hicks St & Montague St","capacity":34,"short_name":"4645.09"},"geometry":{"coordinates":[-73.99595065,40.69512845],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":408,"name":"Market St & Cherry St","capacity":23,"short_name":"5198.04"},"geometry":{"coordinates":[-73.99400398,40.71076228],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":410,"name":"Suffolk St & Stanton St","capacity":45,"short_name":"5445.02"},"geometry":{"coordinates":[-73.98517977,40.72066442],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":411,"name":"E 6 St & Avenue D","capacity":31,"short_name":"5506.14"},"geometry":{"coordinates":[-73.97668709,40.72228087],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":412,"name":"Forsyth St & Canal St","capacity":29,"short_name":"5270.07"},"geometry":{"coordinates":[-73.99422366,40.7158155],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":415,"name":"Pearl St & Hanover Square","capacity":46,"short_name":"4993.02"},"geometry":{"coordinates":[-74.00926027,40.7047177],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":416,"name":"Cumberland St & Lafayette Ave","capacity":31,"short_name":"4428.02"},"geometry":{"coordinates":[-73.97265183,40.68753406],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":417,"name":"Barclay St & Church St","capacity":25,"short_name":"5216.04"},"geometry":{"coordinates":[-74.01020234,40.71291224],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":418,"name":"Front St & Gold St","capacity":23,"short_name":"4927.04"},"geometry":{"coordinates":[-73.982578,40.70224],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":419,"name":"Carlton Ave & Park Ave","capacity":23,"short_name":"4732.04"},"geometry":{"coordinates":[-73.97355569,40.69580705],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":420,"name":"Clermont Ave & Lafayette Ave","capacity":23,"short_name":"4461.01"},"geometry":{"coordinates":[-73.96968902,40.68764484],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":421,"name":"Clermont Ave & Park Ave","capacity":19,"short_name":"4692.01"},"geometry":{"coordinates":[-73.97129668,40.69573398],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":422,"name":"W 59 St & 10 Ave","capacity":78,"short_name":"7023.04"},"geometry":{"coordinates":[-73.988038,40.770513],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":423,"name":"W 54 St & 9 Ave","capacity":27,"short_name":"6920.03"},"geometry":{"coordinates":[-73.98690506,40.76584941],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":426,"name":"West St & Chambers St","capacity":30,"short_name":"5329.03"},"geometry":{"coordinates":[-74.01322069,40.71754834],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":427,"name":"Bus Slip & State St","capacity":47,"short_name":"4889.06"},"geometry":{"coordinates":[-74.013942,40.701907],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":432,"name":"E 7 St & Avenue A","capacity":31,"short_name":"5626.07"},"geometry":{"coordinates":[-73.98379855,40.72621788],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":434,"name":"9 Ave & W 18 St","capacity":60,"short_name":"6190.08"},"geometry":{"coordinates":[-74.00366443,40.74317449],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":435,"name":"W 21 St & 6 Ave","capacity":50,"short_name":"6140.05"},"geometry":{"coordinates":[-73.99415556,40.74173969],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":436,"name":"Hancock St & Bedford Ave","capacity":27,"short_name":"4255.05"},"geometry":{"coordinates":[-73.95399026,40.68216564],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":437,"name":"Macon St & Nostrand Ave","capacity":24,"short_name":"4214.03"},"geometry":{"coordinates":[-73.9500479759,40.6809833854],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":438,"name":"St Marks Pl & 1 Ave","capacity":47,"short_name":"5626.13"},"geometry":{"coordinates":[-73.98564945,40.72779126],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":439,"name":"E 4 St & 2 Ave","capacity":39,"short_name":"5593.04"},"geometry":{"coordinates":[-73.98978041,40.7262807],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":440,"name":"E 45 St & 3 Ave","capacity":32,"short_name":"6464.08"},"geometry":{"coordinates":[-73.97282625,40.75255434],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":442,"name":"W 27 St & 7 Ave","capacity":51,"short_name":"6247.06"},"geometry":{"coordinates":[-73.993915,40.746647],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":443,"name":"Bedford Ave & S 9 St","capacity":23,"short_name":"5093.01"},"geometry":{"coordinates":[-73.96408963,40.70853074],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":445,"name":"E 10 St & Avenue A","capacity":80,"short_name":"5659.05"},"geometry":{"coordinates":[-73.98142006,40.72740794],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":446,"name":"W 24 St & 7 Ave","capacity":79,"short_name":"6257.03"},"geometry":{"coordinates":[-73.99529885,40.74487634],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":447,"name":"8 Ave & W 52 St","capacity":31,"short_name":"6816.07"},"geometry":{"coordinates":[-73.9851615,40.76370739],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":448,"name":"W 37 St & 10 Ave","capacity":27,"short_name":"6611.02"},"geometry":{"coordinates":[-73.9979009,40.75660359],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":450,"name":"W 49 St & 8 Ave","capacity":67,"short_name":"6747.06"},"geometry":{"coordinates":[-73.98788205,40.76227205],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":453,"name":"W 22 St & 8 Ave","capacity":66,"short_name":"6224.03"},"geometry":{"coordinates":[-73.99915362,40.74475148],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":454,"name":"E 51 St & 1 Ave","capacity":35,"short_name":"6532.06"},"geometry":{"coordinates":[-73.96592976,40.75455731],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":455,"name":"1 Ave & E 44 St","capacity":59,"short_name":"6379.03"},"geometry":{"coordinates":[-73.96905301,40.75001986],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":456,"name":"E 53 St & Madison Ave","capacity":34,"short_name":"6659.03"},"geometry":{"coordinates":[-73.97402311,40.7597108],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":458,"name":"11 Ave & W 27 St","capacity":31,"short_name":"6425.04"},"geometry":{"coordinates":[-74.005226,40.751396],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":459,"name":"W 20 St & 11 Ave","capacity":49,"short_name":"6306.07"},"geometry":{"coordinates":[-74.007756,40.746745],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":460,"name":"S 4 St & Wythe Ave","capacity":25,"short_name":"5204.05"},"geometry":{"coordinates":[-73.96590294,40.71285887],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":461,"name":"E 20 St & 2 Ave","capacity":56,"short_name":"5971.08"},"geometry":{"coordinates":[-73.98205027,40.73587678],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":462,"name":"W 22 St & 10 Ave","capacity":47,"short_name":"6306.06"},"geometry":{"coordinates":[-74.00451887,40.74691959],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":464,"name":"E 56 St & 3 Ave","capacity":53,"short_name":"6691.11"},"geometry":{"coordinates":[-73.96759673,40.75934501],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":465,"name":"Broadway & W 41 St","capacity":39,"short_name":"6560.01"},"geometry":{"coordinates":[-73.98658032,40.75513557],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":466,"name":"W 25 St & 6 Ave","capacity":35,"short_name":"6215.04"},"geometry":{"coordinates":[-73.99144871,40.74395411],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":467,"name":"Dean St & 4 Ave","capacity":34,"short_name":"4322.02"},"geometry":{"coordinates":[-73.97895137,40.68312489],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":468,"name":"Broadway & W 56 St","capacity":65,"short_name":"6847.02"},"geometry":{"coordinates":[-73.98192338,40.7652654],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":469,"name":"Broadway & W 53 St","capacity":57,"short_name":"6779.05"},"geometry":{"coordinates":[-73.98268129,40.76344058],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":470,"name":"W 20 St & 8 Ave","capacity":72,"short_name":"6224.05"},"geometry":{"coordinates":[-74.00004031,40.74345335],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":471,"name":"Grand St & Havemeyer St","capacity":31,"short_name":"5267.08"},"geometry":{"coordinates":[-73.95698119,40.71286844],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":472,"name":"E 32 St & Park Ave","capacity":55,"short_name":"6280.12"},"geometry":{"coordinates":[-73.98194829,40.7457121],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":473,"name":"Rivington St & Chrystie St","capacity":50,"short_name":"5453.01"},"geometry":{"coordinates":[-73.9919254,40.72110063],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":474,"name":"5 Ave & E 29 St","capacity":56,"short_name":"6248.06"},"geometry":{"coordinates":[-73.98683077,40.7451677],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":476,"name":"E 31 St & 3 Ave","capacity":47,"short_name":"6239.08"},"geometry":{"coordinates":[-73.97966069,40.74394314],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":477,"name":"W 41 St & 8 Ave","capacity":71,"short_name":"6602.03"},"geometry":{"coordinates":[-73.9900262,40.75640548],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":478,"name":"11 Ave & W 41 St","capacity":37,"short_name":"6726.01"},"geometry":{"coordinates":[-73.99884222,40.76030096],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":479,"name":"9 Ave & W 45 St","capacity":31,"short_name":"6717.06"},"geometry":{"coordinates":[-73.9912551,40.76019252],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":480,"name":"W 53 St & 10 Ave","capacity":29,"short_name":"6890.01"},"geometry":{"coordinates":[-73.99061728,40.76669671],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":481,"name":"S 3 St & Bedford Ave","capacity":25,"short_name":"5235.05"},"geometry":{"coordinates":[-73.96264403,40.71260486],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":482,"name":"W 15 St & 7 Ave","capacity":79,"short_name":"6030.06"},"geometry":{"coordinates":[-73.99931783,40.73935542],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":483,"name":"E 12 St & 3 Ave","capacity":34,"short_name":"5788.12"},"geometry":{"coordinates":[-73.98889957,40.73223272],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":484,"name":"W 44 St & 5 Ave","capacity":46,"short_name":"6551.02"},"geometry":{"coordinates":[-73.98014437,40.75500254],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":485,"name":"W 37 St & 5 Ave","capacity":40,"short_name":"6398.06"},"geometry":{"coordinates":[-73.98338988,40.75038009],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":486,"name":"Broadway & W 29 St","capacity":41,"short_name":"6289.06"},"geometry":{"coordinates":[-73.98855723,40.7462009],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":487,"name":"E 20 St & FDR Drive","capacity":35,"short_name":"5886.02"},"geometry":{"coordinates":[-73.97573881,40.73314259],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":489,"name":"10 Ave & W 28 St","capacity":49,"short_name":"6459.04"},"geometry":{"coordinates":[-74.00176802,40.75066386],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":490,"name":"8 Ave & W 33 St","capacity":66,"short_name":"6450.12"},"geometry":{"coordinates":[-73.993934,40.751551],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":491,"name":"E 24 St & Park Ave S","capacity":0,"short_name":"6131.10"},"geometry":{"coordinates":[-73.98602213,40.74096374],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":492,"name":"W 33 St & 7 Ave","capacity":68,"short_name":"6407.07"},"geometry":{"coordinates":[-73.99093085,40.75019995],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":493,"name":"W 45 St & 6 Ave","capacity":34,"short_name":"6593.13"},"geometry":{"coordinates":[-73.98291153,40.7568001],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":494,"name":"W 26 St & 8 Ave","capacity":66,"short_name":"6297.02"},"geometry":{"coordinates":[-73.99723551,40.74734825],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":495,"name":"W 47 St & 10 Ave","capacity":39,"short_name":"6824.07"},"geometry":{"coordinates":[-73.99301222,40.76269882],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":496,"name":"E 16 St & 5 Ave","capacity":65,"short_name":"6022.04"},"geometry":{"coordinates":[-73.99238967,40.73726186],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":497,"name":"E 17 St & Broadway","capacity":66,"short_name":"5980.07"},"geometry":{"coordinates":[-73.99009296,40.73704984],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":499,"name":"Broadway & W 60 St","capacity":36,"short_name":"6948.11"},"geometry":{"coordinates":[-73.98191841,40.76915505],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":500,"name":"Broadway & W 51 St","capacity":52,"short_name":"6779.04"},"geometry":{"coordinates":[-73.98336183,40.76228826],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":501,"name":"FDR Drive & E 35 St","capacity":79,"short_name":"6230.04"},"geometry":{"coordinates":[-73.97121214,40.744219],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":502,"name":"Henry St & Grand St","capacity":36,"short_name":"5294.04"},"geometry":{"coordinates":[-73.981095,40.714211],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":503,"name":"E 20 St & Park Ave","capacity":31,"short_name":"6055.08"},"geometry":{"coordinates":[-73.98751968,40.73827428],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":504,"name":"1 Ave & E 16 St","capacity":54,"short_name":"5779.08"},"geometry":{"coordinates":[-73.98165557,40.73221853],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":505,"name":"6 Ave & W 33 St","capacity":52,"short_name":"6364.07"},"geometry":{"coordinates":[-73.98848395,40.74901271],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":507,"name":"E 25 St & 2 Ave","capacity":45,"short_name":"6046.02"},"geometry":{"coordinates":[-73.97973776,40.73912601],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":508,"name":"W 46 St & 11 Ave","capacity":25,"short_name":"6795.01"},"geometry":{"coordinates":[-73.99667444,40.76341379],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":509,"name":"9 Ave & W 22 St","capacity":61,"short_name":"6266.06"},"geometry":{"coordinates":[-74.00197139,40.7454973],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":513,"name":"W 56 St & 10 Ave","capacity":29,"short_name":"6955.01"},"geometry":{"coordinates":[-73.988639,40.768254],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":514,"name":"12 Ave & W 40 St","capacity":52,"short_name":"6765.01"},"geometry":{"coordinates":[-74.00277668,40.76087502],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":515,"name":"W 43 St & 10 Ave","capacity":79,"short_name":"6756.01"},"geometry":{"coordinates":[-73.99461843,40.76009437],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":516,"name":"E 47 St & 1 Ave","capacity":31,"short_name":"6498.09"},"geometry":{"coordinates":[-73.96784384,40.75206862],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":517,"name":"Pershing Square South","capacity":69,"short_name":"6432.08"},"geometry":{"coordinates":[-73.97791,40.751581],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":518,"name":"E 39 St & 2 Ave","capacity":39,"short_name":"6345.01"},"geometry":{"coordinates":[-73.9734419,40.74780373],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":519,"name":"Pershing Square North","capacity":69,"short_name":"6432.09"},"geometry":{"coordinates":[-73.977706,40.751873],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":522,"name":"E 51 St & Lexington Ave","capacity":51,"short_name":"6659.01"},"geometry":{"coordinates":[-73.97207836,40.75714758],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":525,"name":"W 34 St & 11 Ave","capacity":56,"short_name":"6578.01"},"geometry":{"coordinates":[-74.0021163,40.75594159],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":526,"name":"E 33 St & 5 Ave","capacity":40,"short_name":"6322.01"},"geometry":{"coordinates":[-73.98490707,40.74765947],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":528,"name":"2 Ave & E 31 St","capacity":39,"short_name":"6197.02"},"geometry":{"coordinates":[-73.97706058,40.74290902],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":529,"name":"W 42 St & 8 Ave","capacity":41,"short_name":"6602.05"},"geometry":{"coordinates":[-73.99098507,40.7575699],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":530,"name":"11 Ave & W 59 St","capacity":24,"short_name":"7059.01"},"geometry":{"coordinates":[-73.99046033620834,40.77149671054441],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":531,"name":"Forsyth St & Broome St","capacity":39,"short_name":"5453.05"},"geometry":{"coordinates":[-73.99266288,40.71893904],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":532,"name":"S 5 Pl & S 5 St","capacity":43,"short_name":"5125.03"},"geometry":{"coordinates":[-73.960876,40.710451],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":533,"name":"Broadway & W 38 St","capacity":46,"short_name":"6441.05"},"geometry":{"coordinates":[-73.98721619,40.75299641],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":534,"name":"Water - Whitehall Plaza","capacity":31,"short_name":"4962.04"},"geometry":{"coordinates":[-74.0127234,40.70255065],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":536,"name":"1 Ave & E 30 St","capacity":28,"short_name":"6079.03"},"geometry":{"coordinates":[-73.97536082,40.74144387],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":539,"name":"Metropolitan Ave & Bedford Ave","capacity":31,"short_name":"5308.04"},"geometry":{"coordinates":[-73.96024116,40.71534825],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":540,"name":"Lexington Ave & E 29 St","capacity":46,"short_name":"6164.09"},"geometry":{"coordinates":[-73.98215353488922,40.74311555376486],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":545,"name":"E 23 St & 1 Ave","capacity":27,"short_name":"5929.01"},"geometry":{"coordinates":[-73.97809472,40.736502],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":546,"name":"E 30 St & Park Ave S","capacity":45,"short_name":"6206.08"},"geometry":{"coordinates":[-73.98303529,40.74444921],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2000,"name":"Front St & Washington St","capacity":30,"short_name":"4936.01"},"geometry":{"coordinates":[-73.98940236,40.70255088],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2002,"name":"Wythe Ave & Metropolitan Ave","capacity":27,"short_name":"5348.02"},"geometry":{"coordinates":[-73.963198,40.716887],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2003,"name":"1 Ave & E 18 St","capacity":54,"short_name":"5854.09"},"geometry":{"coordinates":[-73.98054420948029,40.733812191966315],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2005,"name":"Railroad Ave & Kay Ave","capacity":12,"short_name":"4990.01"},"geometry":{"coordinates":[-73.97100056,40.70531194],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2006,"name":"Central Park S & 6 Ave","capacity":49,"short_name":"6876.04"},"geometry":{"coordinates":[-73.97634151,40.76590936],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2008,"name":"Little West St & 1 Pl","capacity":24,"short_name":"5001.08"},"geometry":{"coordinates":[-74.01677685,40.70569254],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2009,"name":"Catherine St & Monroe St","capacity":35,"short_name":"5128.04"},"geometry":{"coordinates":[-73.99682619,40.71117444],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2010,"name":"Grand St & Greene St","capacity":39,"short_name":"5500.02"},"geometry":{"coordinates":[-74.00238141417502,40.72170005235607],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2012,"name":"E 27 St & 1 Ave","capacity":35,"short_name":"6004.06"},"geometry":{"coordinates":[-73.976806,40.739445],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2017,"name":"E 43 St & 2 Ave","capacity":39,"short_name":"6422.08"},"geometry":{"coordinates":[-73.97121414,40.75022392],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2021,"name":"W 45 St & 8 Ave","capacity":65,"short_name":"6676.02"},"geometry":{"coordinates":[-73.98859651,40.75929124],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":2022,"name":"E 60 St & York Ave","capacity":33,"short_name":"6682.08"},"geometry":{"coordinates":[-73.959223,40.759107],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3016,"name":"Kent Ave & N 7 St","capacity":54,"short_name":"5489.03"},"geometry":{"coordinates":[-73.96165072917938,40.72036775298455],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3041,"name":"Kingston Ave & Herkimer St","capacity":24,"short_name":"4205.06"},"geometry":{"coordinates":[-73.94142771,40.67890679],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3042,"name":"Fulton St & Utica Ave","capacity":19,"short_name":"4228.02"},"geometry":{"coordinates":[-73.9298911,40.6794268],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3043,"name":"Lewis Ave & Decatur St","capacity":19,"short_name":"4237.01"},"geometry":{"coordinates":[-73.934903,40.6814598],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3044,"name":"Albany Ave & Fulton St","capacity":27,"short_name":"4237.02"},"geometry":{"coordinates":[-73.938475,40.6800105],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3046,"name":"Marcus Garvey Blvd & Macon St","capacity":19,"short_name":"4278.03"},"geometry":{"coordinates":[-73.938037,40.682601],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3047,"name":"Halsey St & Tompkins Ave","capacity":21,"short_name":"4319.07"},"geometry":{"coordinates":[-73.944118,40.6823687],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3048,"name":"Putnam Ave & Nostrand Ave","capacity":19,"short_name":"4327.09"},"geometry":{"coordinates":[-73.94977,40.68402],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3049,"name":"Cambridge Pl & Gates Ave","capacity":18,"short_name":"4377.04"},"geometry":{"coordinates":[-73.96304,40.68488],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3050,"name":"Putnam Ave & Throop Ave","capacity":21,"short_name":"4392.04"},"geometry":{"coordinates":[-73.94111,40.6851532],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3052,"name":"Lewis Ave & Madison St","capacity":23,"short_name":"4425.02"},"geometry":{"coordinates":[-73.935775,40.686312],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3053,"name":"Marcy Ave & Lafayette Ave","capacity":22,"short_name":"4476.03"},"geometry":{"coordinates":[-73.947915,40.6900815],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3054,"name":"Greene Ave & Throop Ave","capacity":19,"short_name":"4510.04"},"geometry":{"coordinates":[-73.942061,40.6894932],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3055,"name":"Greene Ave & Nostrand Ave","capacity":23,"short_name":"4519.02"},"geometry":{"coordinates":[-73.950916,40.6883337],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3056,"name":"Kosciuszko St & Nostrand Ave","capacity":23,"short_name":"4519.04"},"geometry":{"coordinates":[-73.95133465,40.69072549],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3057,"name":"Kosciuszko St & Tompkins Ave","capacity":18,"short_name":"4553.04"},"geometry":{"coordinates":[-73.9452416,40.69128258],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3058,"name":"Lewis Ave & Kosciuszko St","capacity":24,"short_name":"4617.01"},"geometry":{"coordinates":[-73.93705428,40.69237074],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3059,"name":"Pulaski St & Marcus Garvey Blvd","capacity":19,"short_name":"4656.03"},"geometry":{"coordinates":[-73.939877,40.6933982],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3060,"name":"Willoughby Ave & Tompkins Ave","capacity":3,"short_name":"4665.02"},"geometry":{"coordinates":[-73.94626915,40.69425403],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3061,"name":"Throop Ave & Myrtle Ave","capacity":21,"short_name":"4697.01"},"geometry":{"coordinates":[-73.94371094,40.69622937],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3062,"name":"Myrtle Ave & Marcy Ave","capacity":23,"short_name":"4707.03"},"geometry":{"coordinates":[-73.94954908,40.69539817],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3063,"name":"Nostrand Ave & Myrtle Ave","capacity":20,"short_name":"4707.04"},"geometry":{"coordinates":[-73.95238108,40.69527008],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3064,"name":"Myrtle Ave & Lewis Ave","capacity":23,"short_name":"4729.01"},"geometry":{"coordinates":[-73.93756926,40.69681963],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3065,"name":"Union Ave & Wallabout St","capacity":31,"short_name":"4818.03"},"geometry":{"coordinates":[-73.95032283,40.70029511],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3066,"name":"Tompkins Ave & Hopkins St","capacity":19,"short_name":"4850.04"},"geometry":{"coordinates":[-73.94708417,40.69957608],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3067,"name":"Broadway & Whipple St","capacity":27,"short_name":"4883.03"},"geometry":{"coordinates":[-73.9437303,40.7016657],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3068,"name":"Humboldt St & Varet St","capacity":42,"short_name":"4956.02"},"geometry":{"coordinates":[-73.940636,40.7031724],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3069,"name":"Lorimer St & Broadway","capacity":29,"short_name":"4965.01"},"geometry":{"coordinates":[-73.94818595,40.70411791],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3070,"name":"McKibbin St & Manhattan Ave","capacity":23,"short_name":"4996.08"},"geometry":{"coordinates":[-73.94407279,40.70510918],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3071,"name":"Boerum St & Broadway","capacity":19,"short_name":"5004.02"},"geometry":{"coordinates":[-73.94976519,40.70538077],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3072,"name":"Leonard St & Boerum St","capacity":24,"short_name":"5036.06"},"geometry":{"coordinates":[-73.94644578,40.70583339],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3074,"name":"Montrose Ave & Bushwick Ave","capacity":42,"short_name":"5068.02"},"geometry":{"coordinates":[-73.94016171,40.70767788],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3075,"name":"Division Ave & Marcy Ave","capacity":33,"short_name":"5084.03"},"geometry":{"coordinates":[-73.95796783,40.70708701],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3076,"name":"Scholes St & Manhattan Ave","capacity":36,"short_name":"5108.01"},"geometry":{"coordinates":[-73.9448625,40.70870368],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3077,"name":"Stagg St & Union Ave","capacity":32,"short_name":"5117.05"},"geometry":{"coordinates":[-73.95095259,40.70877084],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3078,"name":"Broadway & Roebling St","capacity":27,"short_name":"5125.07"},"geometry":{"coordinates":[-73.96063148975372,40.70924826276157],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3080,"name":"S 4 St & Rodney St","capacity":12,"short_name":"5156.05"},"geometry":{"coordinates":[-73.95608,40.70934],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3081,"name":"Graham Ave & Grand St","capacity":29,"short_name":"5178.06"},"geometry":{"coordinates":[-73.944024,40.711863],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3082,"name":"Hope St & Union Ave","capacity":25,"short_name":"5187.03"},"geometry":{"coordinates":[-73.95141312,40.71167351],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3083,"name":"Bushwick Ave & Powers St","capacity":32,"short_name":"5250.05"},"geometry":{"coordinates":[-73.94100005,40.71247661],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3085,"name":"Roebling St & N 4 St","capacity":25,"short_name":"5267.09"},"geometry":{"coordinates":[-73.95739,40.71469],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3086,"name":"Graham Ave & Conselyea St","capacity":30,"short_name":"5291.05"},"geometry":{"coordinates":[-73.944507,40.715143],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3087,"name":"Metropolitan Ave & Meeker Ave","capacity":30,"short_name":"5300.05"},"geometry":{"coordinates":[-73.95234386,40.71413311],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3088,"name":"Union Ave & Jackson St","capacity":19,"short_name":"5300.06"},"geometry":{"coordinates":[-73.952029,40.7160751],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3092,"name":"Berry St & N 8 St","capacity":27,"short_name":"5379.09"},"geometry":{"coordinates":[-73.95852515,40.7190095],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3093,"name":"N 6 St & Bedford Ave","capacity":28,"short_name":"5379.10"},"geometry":{"coordinates":[-73.95850939,40.71745169],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3094,"name":"Graham Ave & Withers St","capacity":18,"short_name":"5403.04"},"geometry":{"coordinates":[-73.94485918,40.7169811],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3095,"name":"Graham Ave & Herbert St","capacity":26,"short_name":"5403.05"},"geometry":{"coordinates":[-73.94500379,40.71929301],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3096,"name":"Union Ave & N 12 St","capacity":39,"short_name":"5411.07"},"geometry":{"coordinates":[-73.95242,40.71924],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3100,"name":"Nassau Ave & Newell St","capacity":51,"short_name":"5623.03"},"geometry":{"coordinates":[-73.94752621650696,40.724812564400175],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3101,"name":"N 12 St & Bedford Ave","capacity":27,"short_name":"5450.04"},"geometry":{"coordinates":[-73.95484712,40.72079821],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3102,"name":"Driggs Ave & Lorimer St","capacity":27,"short_name":"5481.04"},"geometry":{"coordinates":[-73.9504154,40.72179134],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3105,"name":"N 15 St & Wythe Ave","capacity":24,"short_name":"5520.09"},"geometry":{"coordinates":[-73.955736,40.724055],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3106,"name":"Driggs Ave & N Henry St","capacity":22,"short_name":"5542.04"},"geometry":{"coordinates":[-73.94308,40.72325],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3107,"name":"Bedford Ave & Nassau Ave","capacity":39,"short_name":"5550.05"},"geometry":{"coordinates":[-73.95212324,40.72311651],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3108,"name":"Nassau Ave & Russell St","capacity":51,"short_name":"5581.01"},"geometry":{"coordinates":[-73.94434,40.72557],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3109,"name":"Banker St & Meserole Ave","capacity":31,"short_name":"5633.04"},"geometry":{"coordinates":[-73.95621,40.72606],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3110,"name":"Meserole Ave & Manhattan Ave","capacity":28,"short_name":"5666.04"},"geometry":{"coordinates":[-73.95299117,40.72708584],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3112,"name":"Milton St & Franklin St","capacity":33,"short_name":"5752.07"},"geometry":{"coordinates":[-73.95779,40.72906],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3113,"name":"Greenpoint Ave & Manhattan Ave","capacity":27,"short_name":"5785.05"},"geometry":{"coordinates":[-73.95394,40.73026],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3115,"name":"India St & Manhattan Ave","capacity":50,"short_name":"5826.02"},"geometry":{"coordinates":[-73.9550858,40.73232194],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3116,"name":"Huron St & Franklin St","capacity":35,"short_name":"5869.04"},"geometry":{"coordinates":[-73.95826,40.73266],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3117,"name":"Franklin St & Dupont St","capacity":27,"short_name":"5944.01"},"geometry":{"coordinates":[-73.95866,40.73564],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3118,"name":"McGuinness Blvd & Eagle St","capacity":42,"short_name":"5977.01"},"geometry":{"coordinates":[-73.95284,40.73555],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3119,"name":"Vernon Blvd & 50 Ave","capacity":45,"short_name":"6170.02"},"geometry":{"coordinates":[-73.95411749,40.74232744],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3121,"name":"Jackson Ave & 46 Rd","capacity":27,"short_name":"6203.02"},"geometry":{"coordinates":[-73.94733276,40.74524768],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3122,"name":"48 Ave & 5 St","capacity":31,"short_name":"6212.04"},"geometry":{"coordinates":[-73.9558732509613,40.744363287066875],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3123,"name":"31 St & Thomson Ave","capacity":27,"short_name":"6227.02"},"geometry":{"coordinates":[-73.93540375,40.74469738],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3124,"name":"46 Ave & 5 St","capacity":27,"short_name":"6286.02"},"geometry":{"coordinates":[-73.95451,40.74731],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3125,"name":"45 Rd & 11 St","capacity":23,"short_name":"6319.01"},"geometry":{"coordinates":[-73.94977234,40.74708586],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3126,"name":"44 Dr & Jackson Ave","capacity":34,"short_name":"6352.01"},"geometry":{"coordinates":[-73.9432635,40.74718234],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3127,"name":"9 St & 44 Rd","capacity":35,"short_name":"6361.03"},"geometry":{"coordinates":[-73.9521,40.74966],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3128,"name":"21 St & 43 Ave","capacity":23,"short_name":"6395.01"},"geometry":{"coordinates":[-73.94594845,40.75052534],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3129,"name":"Queens Plaza North & Crescent St","capacity":31,"short_name":"6429.01"},"geometry":{"coordinates":[-73.94073717,40.75110165],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3130,"name":"21 St & Queens Plaza North","capacity":31,"short_name":"6471.02"},"geometry":{"coordinates":[-73.94335788,40.75325964],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3131,"name":"E 68 St & 3 Ave","capacity":31,"short_name":"6896.16"},"geometry":{"coordinates":[-73.96224617958069,40.76712840349542],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3132,"name":"E 59 St & Madison Ave","capacity":35,"short_name":"6801.01"},"geometry":{"coordinates":[-73.97109243,40.76350532],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3134,"name":"3 Ave & E 62 St","capacity":51,"short_name":"6762.04"},"geometry":{"coordinates":[-73.96526895,40.76312584],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3135,"name":"E 75 St & 3 Ave","capacity":41,"short_name":"6991.12"},"geometry":{"coordinates":[-73.95772297,40.77112927],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3136,"name":"5 Ave & E 63 St","capacity":47,"short_name":"6904.06"},"geometry":{"coordinates":[-73.971518,40.766368],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3137,"name":"5 Ave & E 73 St","capacity":31,"short_name":"7100.07"},"geometry":{"coordinates":[-73.96685276,40.77282817],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3139,"name":"E 72 St & Park Ave","capacity":43,"short_name":"6998.08"},"geometry":{"coordinates":[-73.96409422159195,40.77118287540658],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3140,"name":"1 Ave & E 78 St","capacity":55,"short_name":"7020.09"},"geometry":{"coordinates":[-73.9535166,40.77140426],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3141,"name":"1 Ave & E 68 St","capacity":58,"short_name":"6822.09"},"geometry":{"coordinates":[-73.95818491,40.76500525],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3142,"name":"1 Ave & E 62 St","capacity":41,"short_name":"6753.08"},"geometry":{"coordinates":[-73.96094022,40.7612274],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3143,"name":"5 Ave & E 78 St","capacity":47,"short_name":"7161.08"},"geometry":{"coordinates":[-73.96427392959595,40.77632142182271],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3144,"name":"E 81 St & Park Ave","capacity":46,"short_name":"7188.10"},"geometry":{"coordinates":[-73.9590097,40.77677702],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3145,"name":"E 84 St & Park Ave","capacity":45,"short_name":"7243.04"},"geometry":{"coordinates":[-73.95772073,40.77862688],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3146,"name":"E 81 St & 3 Ave","capacity":47,"short_name":"7154.07"},"geometry":{"coordinates":[-73.9567526,40.77573034],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3147,"name":"E 85 St & 3 Ave","capacity":39,"short_name":"7212.05"},"geometry":{"coordinates":[-73.95407149,40.77801203],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3148,"name":"E 84 St & 1 Ave","capacity":31,"short_name":"7180.02"},"geometry":{"coordinates":[-73.95068615,40.77565541],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3150,"name":"E 85 St & York Ave","capacity":47,"short_name":"7146.04"},"geometry":{"coordinates":[-73.94803392,40.77536905],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3151,"name":"E 81 St & York Ave","capacity":43,"short_name":"7084.12"},"geometry":{"coordinates":[-73.94989233,40.7728384],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3152,"name":"3 Ave & E 71 St","capacity":42,"short_name":"6960.10"},"geometry":{"coordinates":[-73.96119945,40.76873687],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3154,"name":"E 77 St & 3 Ave","capacity":31,"short_name":"7092.06"},"geometry":{"coordinates":[-73.95856158,40.77314236],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3156,"name":"E 72 St & York Ave","capacity":37,"short_name":"6889.12"},"geometry":{"coordinates":[-73.95348296,40.76663814],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3157,"name":"East End Ave & E 86 St","capacity":27,"short_name":"7113.08"},"geometry":{"coordinates":[-73.94446054,40.77518615],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3158,"name":"W 63 St & Broadway","capacity":31,"short_name":"7052.01"},"geometry":{"coordinates":[-73.98261428,40.77163851],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3159,"name":"W 67 St & Broadway","capacity":31,"short_name":"7116.04"},"geometry":{"coordinates":[-73.98266566,40.77492513],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3160,"name":"Central Park West & W 76 St","capacity":39,"short_name":"7253.04"},"geometry":{"coordinates":[-73.97374737,40.77896784],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3161,"name":"W 76 St & Columbus Ave","capacity":59,"short_name":"7281.09"},"geometry":{"coordinates":[-73.97728532552719,40.7801839724239],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3163,"name":"Central Park West & W 68 St","capacity":43,"short_name":"7079.06"},"geometry":{"coordinates":[-73.97782542,40.7734066],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3164,"name":"Columbus Ave & W 72 St","capacity":67,"short_name":"7175.05"},"geometry":{"coordinates":[-73.97898475,40.7770575],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3165,"name":"Central Park West & W 72 St","capacity":51,"short_name":"7141.07"},"geometry":{"coordinates":[-73.9762057363987,40.77579376683666],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3166,"name":"Riverside Dr & W 72 St","capacity":41,"short_name":"7288.04"},"geometry":{"coordinates":[-73.98562431335449,40.78057799010334],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3167,"name":"Amsterdam Ave & W 73 St","capacity":55,"short_name":"7260.09"},"geometry":{"coordinates":[-73.98093044757842,40.77966809007312],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3168,"name":"Central Park West & W 85 St","capacity":0,"short_name":"7354.02"},"geometry":{"coordinates":[-73.96961715,40.78472675],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3169,"name":"Riverside Dr & W 82 St","capacity":39,"short_name":"7388.10"},"geometry":{"coordinates":[-73.98128127,40.78720869],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3170,"name":"W 84 St & Columbus Ave","capacity":35,"short_name":"7382.04"},"geometry":{"coordinates":[-73.97283406,40.78499979],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3171,"name":"Amsterdam Ave & W 82 St","capacity":39,"short_name":"7360.10"},"geometry":{"coordinates":[-73.97667321,40.78524672],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3172,"name":"W 74 St & Columbus Ave","capacity":27,"short_name":"7230.10"},"geometry":{"coordinates":[-73.97754961,40.7785669],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3173,"name":"Riverside Blvd & W 67 St","capacity":39,"short_name":"7183.03"},"geometry":{"coordinates":[-73.98888587951659,40.777507027547976],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3175,"name":"W 70 St & Amsterdam Ave","capacity":31,"short_name":"7207.08"},"geometry":{"coordinates":[-73.98288594,40.77748046],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3177,"name":"W 84 St & Broadway","capacity":63,"short_name":"7409.08"},"geometry":{"coordinates":[-73.977112,40.7867947],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3178,"name":"Riverside Dr & W 78 St","capacity":39,"short_name":"7340.06"},"geometry":{"coordinates":[-73.98362492,40.78414472],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3179,"name":"Park Ave & Marcus Garvey Blvd","capacity":23,"short_name":"4768.02"},"geometry":{"coordinates":[-73.941342,40.698617],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3182,"name":"Yankee Ferry Terminal","capacity":42,"short_name":"4440.01"},"geometry":{"coordinates":[-74.016966,40.686931],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3184,"name":"Paulus Hook","capacity":14,"short_name":"JC002"},"geometry":{"coordinates":[-74.0335519,40.7141454],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3185,"name":"City Hall","capacity":22,"short_name":"JC003"},"geometry":{"coordinates":[-74.043845,40.7177325],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3186,"name":"Grove St PATH","capacity":42,"short_name":"JC005"},"geometry":{"coordinates":[-74.04311746358871,40.71958611647166],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3187,"name":"Warren St","capacity":22,"short_name":"JC006"},"geometry":{"coordinates":[-74.03805095,40.7211236],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3191,"name":"Union St","capacity":18,"short_name":"JC051"},"geometry":{"coordinates":[-74.0836394,40.7182113],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3192,"name":"Liberty Light Rail","capacity":22,"short_name":"JC052"},"geometry":{"coordinates":[-74.0557013,40.7112423],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3193,"name":"Lincoln Park","capacity":18,"short_name":"JC053"},"geometry":{"coordinates":[-74.07840594649315,40.7246050998869],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3194,"name":"McGinley Square","capacity":22,"short_name":"JC055"},"geometry":{"coordinates":[-74.06762212514877,40.7253399253558],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3195,"name":"Sip Ave","capacity":34,"short_name":"JC056"},"geometry":{"coordinates":[-74.06391263008118,40.73089709786179],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3196,"name":"Riverview Park","capacity":18,"short_name":"JC057"},"geometry":{"coordinates":[-74.0439909,40.7443187],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3198,"name":"Heights Elevator","capacity":18,"short_name":"JC059"},"geometry":{"coordinates":[-74.04044330120087,40.748715945380226],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3199,"name":"Newport Pkwy","capacity":14,"short_name":"JC008"},"geometry":{"coordinates":[-74.0321082,40.7287448],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3201,"name":"Dey St","capacity":18,"short_name":"JC065"},"geometry":{"coordinates":[-74.066921,40.737711],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3202,"name":"Newport PATH","capacity":18,"short_name":"JC066"},"geometry":{"coordinates":[-74.0337589,40.7272235],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3203,"name":"Hamilton Park","capacity":26,"short_name":"JC009"},"geometry":{"coordinates":[-74.044247311,40.727595966],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3205,"name":"JC Medical Center","capacity":22,"short_name":"JC011"},"geometry":{"coordinates":[-74.0496379137039,40.71653978099194],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3206,"name":"Hilltop","capacity":26,"short_name":"JC019"},"geometry":{"coordinates":[-74.0575736,40.7311689],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3207,"name":"Oakland Ave","capacity":26,"short_name":"JC022"},"geometry":{"coordinates":[-74.0524783,40.7376037],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3209,"name":"Brunswick St","capacity":22,"short_name":"JC023"},"geometry":{"coordinates":[-74.0506564,40.7241765],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3210,"name":"Pershing Field","capacity":18,"short_name":"JC024"},"geometry":{"coordinates":[-74.051788633,40.742677141],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3211,"name":"Newark Ave","capacity":22,"short_name":"JC032"},"geometry":{"coordinates":[-74.046304543,40.72152515],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3212,"name":"Christ Hospital","capacity":22,"short_name":"JC034"},"geometry":{"coordinates":[-74.050443636,40.734785818],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3213,"name":"Van Vorst Park","capacity":22,"short_name":"JC035"},"geometry":{"coordinates":[-74.047726625,40.71848892],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3214,"name":"Essex Light Rail","capacity":22,"short_name":"JC038"},"geometry":{"coordinates":[-74.0364857,40.7127742],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3220,"name":"5 Corners Library","capacity":18,"short_name":"JC018"},"geometry":{"coordinates":[-74.0595030784607,40.734961020009514],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3221,"name":"47 Ave & 31 St","capacity":27,"short_name":"6151.03"},"geometry":{"coordinates":[-73.93561,40.743],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3225,"name":"Baldwin at Montgomery","capacity":14,"short_name":"JC020"},"geometry":{"coordinates":[-74.0641943,40.7236589],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3226,"name":"W 82 St & Central Park West","capacity":45,"short_name":"7304.08"},"geometry":{"coordinates":[-73.97137,40.78275],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3231,"name":"E 67 St & Park Ave","capacity":39,"short_name":"6932.14"},"geometry":{"coordinates":[-73.96592080593109,40.76780080148132],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3232,"name":"Bond St & Fulton St","capacity":31,"short_name":"4479.06"},"geometry":{"coordinates":[-73.98304268717766,40.68962188790333],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3233,"name":"E 48 St & 5 Ave","capacity":39,"short_name":"6626.01"},"geometry":{"coordinates":[-73.97805914282799,40.75724567911726],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3235,"name":"E 41 St & Madison Ave","capacity":34,"short_name":"6474.12"},"geometry":{"coordinates":[-73.97992193698882,40.752165280621966],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3236,"name":"W 42 St & Dyer Ave","capacity":33,"short_name":"6644.07"},"geometry":{"coordinates":[-73.99379968643188,40.75898481399634],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3241,"name":"Monroe St & Tompkins Ave","capacity":19,"short_name":"4434.06"},"geometry":{"coordinates":[-73.944694,40.686203],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3242,"name":"Schermerhorn St & Court St","capacity":39,"short_name":"4565.04"},"geometry":{"coordinates":[-73.99183362722397,40.69102925677968],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3243,"name":"E 58 St & 1 Ave (NE Corner)","capacity":29,"short_name":"6682.03"},"geometry":{"coordinates":[-73.96226227283478,40.75892386377695],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3244,"name":"University Pl & E 8 St","capacity":42,"short_name":"5755.14"},"geometry":{"coordinates":[-73.99490341544151,40.73143724085228],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3246,"name":"Montague St & Clinton St","capacity":39,"short_name":"4677.06"},"geometry":{"coordinates":[-73.99230033159256,40.694281141397326],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3249,"name":"Verona Pl & Fulton St","capacity":19,"short_name":"4124.04"},"geometry":{"coordinates":[-73.9476791024208,40.6803560840434],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3254,"name":"Soissons Landing","capacity":29,"short_name":"4590.01"},"geometry":{"coordinates":[-74.01486575603485,40.69231660719192],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3255,"name":"8 Ave & W 31 St","capacity":18,"short_name":"6450.05"},"geometry":{"coordinates":[-73.9946848154068,40.7505853470215],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3256,"name":"Pier 40 - Hudson River Park","capacity":23,"short_name":"5696.03"},"geometry":{"coordinates":[-74.01129573583603,40.7277140777778],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3259,"name":"9 Ave & W 28 St","capacity":27,"short_name":"6416.08"},"geometry":{"coordinates":[-73.99923384189606,40.74937024193277],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3260,"name":"Mercer St & Bleecker St","capacity":45,"short_name":"5679.05"},"geometry":{"coordinates":[-73.99662137031554,40.72706363348306],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3263,"name":"Cooper Square & Astor Pl","capacity":59,"short_name":"5712.03"},"geometry":{"coordinates":[-73.99075269699097,40.72951496224949],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3267,"name":"Morris Canal","capacity":14,"short_name":"JC072"},"geometry":{"coordinates":[-74.03852552175522,40.7124188237569],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3268,"name":"Lafayette Park","capacity":14,"short_name":"JC078"},"geometry":{"coordinates":[-74.06285852193832,40.71346382669195],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3269,"name":"Brunswick & 6th","capacity":14,"short_name":"JC081"},"geometry":{"coordinates":[-74.05038893222809,40.72601172964625],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3270,"name":"Jersey & 6th St","capacity":14,"short_name":"JC027"},"geometry":{"coordinates":[-74.04557168483734,40.72528910781132],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3272,"name":"Jersey & 3rd","capacity":14,"short_name":"JC074"},"geometry":{"coordinates":[-74.04595255851744,40.72333158646436],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3273,"name":"Manila & 1st","capacity":18,"short_name":"JC082"},"geometry":{"coordinates":[-74.04288411140442,40.721650724879986],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3275,"name":"Columbus Drive","capacity":14,"short_name":"JC014"},"geometry":{"coordinates":[-74.03891444206238,40.71835519823214],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3276,"name":"Marin Light Rail","capacity":26,"short_name":"JC013"},"geometry":{"coordinates":[-74.04281705617905,40.71458403535893],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3277,"name":"Communipaw & Berry Lane","capacity":14,"short_name":"JC084"},"geometry":{"coordinates":[-74.06661093235016,40.71435836870427],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3278,"name":"Monmouth and 6th","capacity":14,"short_name":"JC075"},"geometry":{"coordinates":[-74.04879033565521,40.72568548362901],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3279,"name":"Dixon Mills","capacity":18,"short_name":"JC076"},"geometry":{"coordinates":[-74.04996782541275,40.721630142638354],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3280,"name":"Astor Place","capacity":14,"short_name":"JC077"},"geometry":{"coordinates":[-74.07126188278198,40.71928220070702],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3281,"name":"Leonard Gordon Park","capacity":14,"short_name":"JC080"},"geometry":{"coordinates":[-74.0572714805603,40.74590996631558],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3282,"name":"5 Ave & E 88 St","capacity":38,"short_name":"7323.10"},"geometry":{"coordinates":[-73.95939,40.78307],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3283,"name":"W 89 St & Columbus Ave","capacity":47,"short_name":"7432.09"},"geometry":{"coordinates":[-73.97041561,40.7882213],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3284,"name":"E 88 St & Park Ave","capacity":38,"short_name":"7293.10"},"geometry":{"coordinates":[-73.95595908164978,40.781410700190015],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3285,"name":"W 87 St & Amsterdam Ave","capacity":43,"short_name":"7458.03"},"geometry":{"coordinates":[-73.9747,40.78839],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3286,"name":"E 89 St & 3 Ave","capacity":39,"short_name":"7265.10"},"geometry":{"coordinates":[-73.9521667,40.7806284],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3287,"name":"W 87 St & West End Ave","capacity":47,"short_name":"7484.05"},"geometry":{"coordinates":[-73.97757,40.789622],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3288,"name":"E 88 St & 1 Ave","capacity":39,"short_name":"7235.13"},"geometry":{"coordinates":[-73.9488134,40.778301],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3289,"name":"W 90 St & Amsterdam Ave","capacity":32,"short_name":"7432.04"},"geometry":{"coordinates":[-73.97288918495178,40.79017948095081],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3290,"name":"E 89 St & York Ave","capacity":35,"short_name":"7204.08"},"geometry":{"coordinates":[-73.946041,40.7779453],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3292,"name":"5 Ave & E 93 St","capacity":43,"short_name":"7372.10"},"geometry":{"coordinates":[-73.957481,40.7857851],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3293,"name":"W 92 St & Broadway","capacity":24,"short_name":"7502.01"},"geometry":{"coordinates":[-73.9739,40.7921],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3294,"name":"E 91 St & Park Ave","capacity":38,"short_name":"7344.05"},"geometry":{"coordinates":[-73.955327,40.7835016],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3295,"name":"Central Park W & W 96 St","capacity":59,"short_name":"7499.05"},"geometry":{"coordinates":[-73.964839,40.79127],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3296,"name":"E 93 St & 2 Ave","capacity":42,"short_name":"7286.02"},"geometry":{"coordinates":[-73.9489196240902,40.782454175279874],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3297,"name":"6 St & 7 Ave","capacity":21,"short_name":"3834.10"},"geometry":{"coordinates":[-73.97988067,40.6686627],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3298,"name":"Warren St & Court St","capacity":23,"short_name":"4413.08"},"geometry":{"coordinates":[-73.99383324,40.686371],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3299,"name":"E 98 St & Park Ave","capacity":25,"short_name":"7443.17"},"geometry":{"coordinates":[-73.95206,40.78813],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3300,"name":"Prospect Park West & 8 St","capacity":25,"short_name":"3722.04"},"geometry":{"coordinates":[-73.97637605667114,40.66514681533792],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3301,"name":"Columbus Ave & W 95 St","capacity":39,"short_name":"7520.07"},"geometry":{"coordinates":[-73.968087,40.7919557],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3302,"name":"Columbus Ave & W 103 St","capacity":22,"short_name":"7595.17"},"geometry":{"coordinates":[-73.9643412291,40.7969347],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3303,"name":"Butler St & Court St","capacity":25,"short_name":"4339.01"},"geometry":{"coordinates":[-73.99440329,40.6849894],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3304,"name":"6 Ave & 9 St","capacity":27,"short_name":"3803.09"},"geometry":{"coordinates":[-73.98377641,40.668127],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3305,"name":"E 91 St & 2 Ave","capacity":39,"short_name":"7286.01"},"geometry":{"coordinates":[-73.94965589046478,40.78112229934166],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3306,"name":"10 St & 7 Ave","capacity":17,"short_name":"3762.08"},"geometry":{"coordinates":[-73.98199886,40.6662078],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3307,"name":"West End Ave & W 94 St","capacity":31,"short_name":"7524.09"},"geometry":{"coordinates":[-73.974124,40.7941654],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3308,"name":"Kane St & Clinton St","capacity":27,"short_name":"4455.11"},"geometry":{"coordinates":[-73.99645295,40.6861758],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3309,"name":"E 97 St & 3 Ave","capacity":30,"short_name":"7365.08"},"geometry":{"coordinates":[-73.94860294,40.7859201],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3310,"name":"14 St & 7 Ave","capacity":24,"short_name":"3731.11"},"geometry":{"coordinates":[-73.98396846,40.663779],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3311,"name":"Columbia St & Kane St","capacity":21,"short_name":"4422.05"},"geometry":{"coordinates":[-74.0016256,40.68763155],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3312,"name":"1 Ave & E 94 St","capacity":38,"short_name":"7286.05"},"geometry":{"coordinates":[-73.94594,40.7817212],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3313,"name":"6 Ave & 12 St","capacity":29,"short_name":"3803.05"},"geometry":{"coordinates":[-73.9854617,40.6663181],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3314,"name":"W 95 St & Broadway","capacity":32,"short_name":"7541.01"},"geometry":{"coordinates":[-73.971888,40.7937704],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3315,"name":"Henry St & Degraw St","capacity":23,"short_name":"4380.08"},"geometry":{"coordinates":[-73.99917254,40.6847514],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3317,"name":"10 St & 5 Ave","capacity":24,"short_name":"3842.08"},"geometry":{"coordinates":[-73.98700053,40.6686273],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3318,"name":"2 Ave & E 96 St","capacity":39,"short_name":"7338.02"},"geometry":{"coordinates":[-73.9471673,40.7839636],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3319,"name":"14 St & 5 Ave","capacity":21,"short_name":"3771.06"},"geometry":{"coordinates":[-73.98895053,40.666287],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3320,"name":"Central Park West & W 100 St","capacity":49,"short_name":"7538.12"},"geometry":{"coordinates":[-73.96286845207214,40.79406660818552],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3321,"name":"Clinton St & Union St","capacity":25,"short_name":"4266.03"},"geometry":{"coordinates":[-73.99785267,40.6831164],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3322,"name":"12 St & 4 Ave","capacity":25,"short_name":"3882.01"},"geometry":{"coordinates":[-73.9904394,40.668603],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3323,"name":"W 106 St & Central Park West","capacity":59,"short_name":"7606.01"},"geometry":{"coordinates":[-73.9605909006,40.7981856],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3324,"name":"3 Ave & 14 St","capacity":25,"short_name":"3850.03"},"geometry":{"coordinates":[-73.99333264,40.6685455],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3325,"name":"E 95 St & 3 Ave","capacity":31,"short_name":"7365.13"},"geometry":{"coordinates":[-73.950503,40.7849032],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3326,"name":"Clinton St & Centre St","capacity":21,"short_name":"4045.01"},"geometry":{"coordinates":[-74.00194698,40.67434],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3327,"name":"3 Ave & E 100 St","capacity":27,"short_name":"7414.17"},"geometry":{"coordinates":[-73.94728331,40.7877214],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3328,"name":"W 100 St & Manhattan Ave","capacity":39,"short_name":"7538.14"},"geometry":{"coordinates":[-73.9645,40.795],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3329,"name":"Degraw St & Smith St","capacity":27,"short_name":"4298.05"},"geometry":{"coordinates":[-73.99318208,40.6829151],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3330,"name":"Henry St & Bay St","capacity":19,"short_name":"3972.08"},"geometry":{"coordinates":[-74.00494695,40.6725058],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3331,"name":"Riverside Dr & W 104 St","capacity":39,"short_name":"7623.13"},"geometry":{"coordinates":[-73.9711457439,40.8013434],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3332,"name":"Degraw St & Hoyt St","capacity":19,"short_name":"4258.07"},"geometry":{"coordinates":[-73.99079024791718,40.681990442707026],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3333,"name":"Columbia St & Lorraine St","capacity":21,"short_name":"4103.08"},"geometry":{"coordinates":[-74.0075572,40.6747055],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3335,"name":"Union St & 4 Ave","capacity":28,"short_name":"4175.15"},"geometry":{"coordinates":[-73.98282002,40.6772744],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3336,"name":"E 97 St & Madison Ave","capacity":41,"short_name":"7393.09"},"geometry":{"coordinates":[-73.953559,40.787801],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3337,"name":"Dwight St & Van Dyke St","capacity":23,"short_name":"3981.10"},"geometry":{"coordinates":[-74.01195555925369,40.67363551341504],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3338,"name":"2 Ave & E 99 St","capacity":31,"short_name":"7386.10"},"geometry":{"coordinates":[-73.94552579,40.7862586],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3339,"name":"Berkeley Pl & 6 Ave","capacity":23,"short_name":"4134.06"},"geometry":{"coordinates":[-73.97846879,40.6765304],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3340,"name":"Wolcott St & Dwight St","capacity":21,"short_name":"4054.02"},"geometry":{"coordinates":[-74.0100698,40.6753274],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3341,"name":"Central Park West & W 102 St","capacity":0,"short_name":"7577.24"},"geometry":{"coordinates":[-73.96186,40.795346],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3342,"name":"Pioneer St & Richards St","capacity":23,"short_name":"4128.08"},"geometry":{"coordinates":[-74.0094613,40.6777748],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3343,"name":"W 107 St & Columbus Ave","capacity":23,"short_name":"7619.05"},"geometry":{"coordinates":[-73.9621128676,40.7997568],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3344,"name":"Pioneer St & Van Brunt St","capacity":19,"short_name":"4169.04"},"geometry":{"coordinates":[-74.011169,40.679043],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3345,"name":"Madison Ave & E 99 St","capacity":35,"short_name":"7443.01"},"geometry":{"coordinates":[-73.95242929458618,40.78948541553215],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3346,"name":"Berkeley Pl & 7 Ave","capacity":29,"short_name":"4051.01"},"geometry":{"coordinates":[-73.97523209452629,40.675146838709786],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3347,"name":"Van Brunt St & Wolcott St","capacity":21,"short_name":"4095.03"},"geometry":{"coordinates":[-74.01275056,40.6773429],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3348,"name":"Coffey St & Conover St","capacity":19,"short_name":"4137.10"},"geometry":{"coordinates":[-74.015665,40.677236],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3349,"name":"Grand Army Plaza & Plaza St West","capacity":30,"short_name":"4010.15"},"geometry":{"coordinates":[-73.97087984,40.6729679],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3350,"name":"W 100 St & Broadway","capacity":39,"short_name":"7580.01"},"geometry":{"coordinates":[-73.97041192,40.7973721],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3351,"name":"E 102 St & 1 Ave","capacity":25,"short_name":"7407.13"},"geometry":{"coordinates":[-73.94164802,40.7869946],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3352,"name":"Sigourney St & Columbia St","capacity":21,"short_name":"3940.04"},"geometry":{"coordinates":[-74.0087952464819,40.67267243410948],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3354,"name":"3 St & Prospect Park West","capacity":31,"short_name":"3865.05"},"geometry":{"coordinates":[-73.97363831,40.668132],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3355,"name":"E 66 St & Madison Ave","capacity":25,"short_name":"6969.08"},"geometry":{"coordinates":[-73.96845281124115,40.76800889305947],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3356,"name":"Amsterdam Ave & W 66 St","capacity":21,"short_name":"7149.05"},"geometry":{"coordinates":[-73.98470567,40.7746671],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3357,"name":"W 106 St & Amsterdam Ave","capacity":35,"short_name":"7634.01"},"geometry":{"coordinates":[-73.9664492472,40.8008363],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3358,"name":"Garfield Pl & 8 Ave","capacity":25,"short_name":"3978.13"},"geometry":{"coordinates":[-73.97484126,40.6711978],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3359,"name":"E 68 St & Madison Ave","capacity":41,"short_name":"6932.15"},"geometry":{"coordinates":[-73.96703464,40.7691572],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3360,"name":"Amsterdam Ave & W 79 St","capacity":25,"short_name":"7311.02"},"geometry":{"coordinates":[-73.9786517,40.7829391],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3361,"name":"Carroll St & 6 Ave","capacity":23,"short_name":"4019.06"},"geometry":{"coordinates":[-73.9787282,40.6740886],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3362,"name":"Madison Ave & E 82 St","capacity":34,"short_name":"7188.13"},"geometry":{"coordinates":[-73.96069399,40.7781314],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3363,"name":"E 102 St & Park Ave","capacity":33,"short_name":"7488.24"},"geometry":{"coordinates":[-73.95033068,40.7904828],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3364,"name":"Carroll St & 5 Ave","capacity":27,"short_name":"4060.09"},"geometry":{"coordinates":[-73.9814832,40.6751622],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3365,"name":"3 St & 7 Ave","capacity":27,"short_name":"3905.15"},"geometry":{"coordinates":[-73.97839676,40.6703837],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3366,"name":"West End Ave & W 107 St","capacity":31,"short_name":"7650.05"},"geometry":{"coordinates":[-73.9681805305,40.8021174],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3367,"name":"5 Ave & E 103 St","capacity":39,"short_name":"7511.19"},"geometry":{"coordinates":[-73.95249933,40.7922553],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3368,"name":"5 Ave & 3 St","capacity":30,"short_name":"3987.06"},"geometry":{"coordinates":[-73.98352355,40.6728155],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3369,"name":"E 82 St & East End Ave","capacity":29,"short_name":"7049.04"},"geometry":{"coordinates":[-73.9468208,40.7724607],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3370,"name":"E 78 St & 2 Ave","capacity":25,"short_name":"7057.07"},"geometry":{"coordinates":[-73.95577801,40.7727966],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3372,"name":"E 74 St & 1 Ave","capacity":39,"short_name":"6953.08"},"geometry":{"coordinates":[-73.95482273,40.7689738],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3373,"name":"3 St & 3 Ave","capacity":27,"short_name":"4028.03"},"geometry":{"coordinates":[-73.98775226,40.6750705],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3374,"name":"Central Park North & Adam Clayton Powell Blvd","capacity":36,"short_name":"7617.07"},"geometry":{"coordinates":[-73.955613,40.799484],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3375,"name":"3 Ave & E 72 St","capacity":35,"short_name":"7028.04"},"geometry":{"coordinates":[-73.96060712,40.7699426],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3376,"name":"E 65 St & 2 Ave","capacity":39,"short_name":"6860.12"},"geometry":{"coordinates":[-73.96222069859505,40.76471851944339],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3377,"name":"Carroll St & Bond St","capacity":25,"short_name":"4184.07"},"geometry":{"coordinates":[-73.99037292,40.6786115],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3378,"name":"E 76 St & Park Ave","capacity":28,"short_name":"7128.08"},"geometry":{"coordinates":[-73.96222088,40.773763],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3379,"name":"E 103 St & Lexington Ave","capacity":35,"short_name":"7463.09"},"geometry":{"coordinates":[-73.94755757,40.7903051],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3381,"name":"3 St & Hoyt St","capacity":21,"short_name":"4110.10"},"geometry":{"coordinates":[-73.99364123,40.6777287],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3382,"name":"Carroll St & Smith St","capacity":31,"short_name":"4225.14"},"geometry":{"coordinates":[-73.99475825,40.680611],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3383,"name":"Cathedral Pkwy & Broadway","capacity":25,"short_name":"7680.03"},"geometry":{"coordinates":[-73.96699104,40.804213],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3384,"name":"Smith St & 3 St","capacity":25,"short_name":"4151.01"},"geometry":{"coordinates":[-73.99599099,40.6787242],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3386,"name":"1 Pl & Clinton St","capacity":27,"short_name":"4193.14"},"geometry":{"coordinates":[-73.99905709,40.6809591],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3387,"name":"E 106 St & Madison Ave","capacity":25,"short_name":"7528.31"},"geometry":{"coordinates":[-73.94945003,40.7934337],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3388,"name":"President St & Henry St","capacity":25,"short_name":"4307.13"},"geometry":{"coordinates":[-73.99990419,40.6828003],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3389,"name":"Carroll St & Columbia St","capacity":28,"short_name":"4348.07"},"geometry":{"coordinates":[-74.00348559,40.6830456],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3390,"name":"E 109 St & 3 Ave","capacity":24,"short_name":"7504.12"},"geometry":{"coordinates":[-73.9432083,40.79329668],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3391,"name":"E 106 St & 1 Ave","capacity":25,"short_name":"7456.03"},"geometry":{"coordinates":[-73.93956237,40.7892529],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3392,"name":"Commerce St & Van Brunt St","capacity":19,"short_name":"4243.01"},"geometry":{"coordinates":[-74.00860912,40.6812117],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3393,"name":"Richards St & Delavan St","capacity":19,"short_name":"4202.04"},"geometry":{"coordinates":[-74.00785041,40.6794327],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3394,"name":"Columbia St & W 9 St","capacity":21,"short_name":"4086.05"},"geometry":{"coordinates":[-74.00647134,40.6769993],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3395,"name":"Henry St & W 9 St","capacity":19,"short_name":"4086.06"},"geometry":{"coordinates":[-74.00324957,40.6763744],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3396,"name":"Clinton St & 4 Place","capacity":25,"short_name":"4119.04"},"geometry":{"coordinates":[-74.00014502,40.6783563],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3397,"name":"Court St & Nelson St","capacity":25,"short_name":"4077.07"},"geometry":{"coordinates":[-73.99869893,40.6763947],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3398,"name":"Smith St & 9 St","capacity":23,"short_name":"4077.04"},"geometry":{"coordinates":[-73.99785768,40.6746957],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3399,"name":"7 St & 3 Ave","capacity":24,"short_name":"3996.01"},"geometry":{"coordinates":[-73.98983001708984,40.67260298150126],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3400,"name":"E 110 St & Madison Ave","capacity":24,"short_name":"7587.14"},"geometry":{"coordinates":[-73.94782145,40.7961535],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3402,"name":"Court St & State St","capacity":23,"short_name":"4488.08"},"geometry":{"coordinates":[-73.99203074,40.6902375],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3403,"name":"4 Ave & 9 St","capacity":31,"short_name":"3955.05"},"geometry":{"coordinates":[-73.98876585,40.6705135],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3404,"name":"7 St & 5 Ave","capacity":27,"short_name":"3914.02"},"geometry":{"coordinates":[-73.98541675,40.6704922],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3405,"name":"5 St & 6 Ave","capacity":23,"short_name":"3874.01"},"geometry":{"coordinates":[-73.98208968,40.6704836],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3407,"name":"Union St & Nevins St","capacity":23,"short_name":"4143.03"},"geometry":{"coordinates":[-73.98765474557877,40.67909799721684],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3408,"name":"Congress St & Clinton St","capacity":27,"short_name":"4455.07"},"geometry":{"coordinates":[-73.99520919,40.6881529],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3409,"name":"Bergen St & Smith St","capacity":35,"short_name":"4446.01"},"geometry":{"coordinates":[-73.99063168,40.6867443],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3410,"name":"Dean St & Hoyt St","capacity":31,"short_name":"4446.05"},"geometry":{"coordinates":[-73.98759104,40.6864442],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3411,"name":"Bond St & Bergen St","capacity":27,"short_name":"4404.10"},"geometry":{"coordinates":[-73.98620772,40.6849668],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3412,"name":"Pacific St & Nevins St","capacity":18,"short_name":"4362.04"},"geometry":{"coordinates":[-73.98302136,40.6853761],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3414,"name":"Bergen St & Flatbush Ave","capacity":33,"short_name":"4281.08"},"geometry":{"coordinates":[-73.97567331790923,40.680944723477296],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3415,"name":"Prospect Pl & 6 Ave","capacity":25,"short_name":"4166.08"},"geometry":{"coordinates":[-73.97519523,40.6793307],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3416,"name":"7 Ave & Park Pl","capacity":25,"short_name":"4125.07"},"geometry":{"coordinates":[-73.97324283,40.6776147],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3417,"name":"Baltic St & 5 Ave","capacity":27,"short_name":"4208.11"},"geometry":{"coordinates":[-73.97854971,40.6795766],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3418,"name":"Plaza St West & Flatbush Ave","capacity":33,"short_name":"4010.13"},"geometry":{"coordinates":[-73.97111473,40.6750207],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3419,"name":"Douglass St & 4 Ave","capacity":27,"short_name":"4175.14"},"geometry":{"coordinates":[-73.98154004,40.6792788],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3420,"name":"Douglass St & 3 Ave","capacity":21,"short_name":"4217.02"},"geometry":{"coordinates":[-73.98432695,40.6802133],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3421,"name":"Hoyt St & Warren St","capacity":23,"short_name":"4330.09"},"geometry":{"coordinates":[-73.98901629,40.6843549],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3422,"name":"Columbia St & Degraw St","capacity":21,"short_name":"4422.04"},"geometry":{"coordinates":[-74.00242364,40.6859296],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3423,"name":"West Drive & Prospect Park West","capacity":29,"short_name":"3651.04"},"geometry":{"coordinates":[-73.97945255041122,40.6610633719006],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3424,"name":"E 106 St & Lexington Ave","capacity":27,"short_name":"7504.18"},"geometry":{"coordinates":[-73.945993,40.791976],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3425,"name":"2 Ave & E 104 St","capacity":33,"short_name":"7436.11"},"geometry":{"coordinates":[-73.94370784,40.7892105],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3429,"name":"Hanson Pl & Ashland Pl","capacity":39,"short_name":"4395.07"},"geometry":{"coordinates":[-73.97790759801863,40.68506807308177],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3430,"name":"Richardson St & N Henry St","capacity":25,"short_name":"5433.03"},"geometry":{"coordinates":[-73.94223690032959,40.71907891179564],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3435,"name":"Grand St & Elizabeth St","capacity":45,"short_name":"5382.06"},"geometry":{"coordinates":[-73.99596,40.718822],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3437,"name":"Riverside Dr & W 91 St","capacity":39,"short_name":"7524.16"},"geometry":{"coordinates":[-73.97700369358063,40.79313480986663],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3440,"name":"Fulton St & Adams St","capacity":43,"short_name":"4637.06"},"geometry":{"coordinates":[-73.98949474096298,40.692418292578466],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3443,"name":"W 52 St & 6 Ave","capacity":40,"short_name":"6740.01"},"geometry":{"coordinates":[-73.97982001304626,40.76132983124814],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3452,"name":"Bayard St & Leonard St","capacity":43,"short_name":"5442.05"},"geometry":{"coordinates":[-73.94885390996933,40.71915571696044],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3453,"name":"Devoe St & Lorimer St","capacity":19,"short_name":"5259.06"},"geometry":{"coordinates":[-73.9491033554077,40.71335226222875],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3454,"name":"Leonard St & Maujer St","capacity":24,"short_name":"5148.03"},"geometry":{"coordinates":[-73.94705951213837,40.7103685423523],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3456,"name":"Jackson St & Leonard St","capacity":22,"short_name":"5332.10"},"geometry":{"coordinates":[-73.94821286201477,40.71638031973561],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3457,"name":"E 58 St & Madison Ave","capacity":46,"short_name":"6839.04"},"geometry":{"coordinates":[-73.97209525108337,40.76302594280519],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3461,"name":"Murray St & Greenwich St","capacity":33,"short_name":"5288.12"},"geometry":{"coordinates":[-74.01122331619263,40.714851505262516],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3463,"name":"E 16 St & Irving Pl","capacity":37,"short_name":"5938.11"},"geometry":{"coordinates":[-73.98797392845154,40.735367055605394],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3467,"name":"W Broadway & Spring St","capacity":44,"short_name":"5569.06"},"geometry":{"coordinates":[-74.00165855884552,40.72494672359416],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3469,"name":"India St & West St","capacity":23,"short_name":"5794.03"},"geometry":{"coordinates":[-73.95995020866394,40.73181401720966],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3472,"name":"W 15 St & 10 Ave","capacity":39,"short_name":"6115.09"},"geometry":{"coordinates":[-74.00747358798981,40.742753828659026],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3477,"name":"39 St & 2 Ave","capacity":33,"short_name":"3501.01"},"geometry":{"coordinates":[-74.01062786579132,40.65539977447831],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3478,"name":"2 Ave & 36 St","capacity":43,"short_name":"3460.01"},"geometry":{"coordinates":[-74.00870203971863,40.65708866668485],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3479,"name":"Picnic Point","capacity":45,"short_name":"4374.01"},"geometry":{"coordinates":[-74.02535319328308,40.68512559515415],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3481,"name":"York St","capacity":22,"short_name":"JC096"},"geometry":{"coordinates":[-74.04105,40.71649],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3483,"name":"Montgomery St","capacity":14,"short_name":"JC099"},"geometry":{"coordinates":[-74.05099,40.71942],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3486,"name":"Schermerhorn St & Bond St","capacity":30,"short_name":"4479.08"},"geometry":{"coordinates":[-73.98451656103134,40.688417427540834],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3490,"name":"E 116 St & 2 Ave","capacity":31,"short_name":"7563.06"},"geometry":{"coordinates":[-73.937261,40.796879],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3491,"name":"E 118 St & 1 Ave","capacity":24,"short_name":"7596.10"},"geometry":{"coordinates":[-73.93504,40.79747],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3492,"name":"E 118 St & Park Ave","capacity":27,"short_name":"7625.18"},"geometry":{"coordinates":[-73.9419949,40.8005385],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3493,"name":"E 118 St & 3 Ave","capacity":31,"short_name":"7611.02"},"geometry":{"coordinates":[-73.9389152,40.799139],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3494,"name":"E 115 St & Lexington Ave","capacity":25,"short_name":"7599.09"},"geometry":{"coordinates":[-73.9423,40.797911],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3495,"name":"E 114 St & 1 Ave","capacity":26,"short_name":"7540.02"},"geometry":{"coordinates":[-73.9362541,40.7945663],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3496,"name":"1 Ave & E 110 St","capacity":25,"short_name":"7522.02"},"geometry":{"coordinates":[-73.9383,40.7923272],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3497,"name":"Pleasant Ave & E 116 St","capacity":23,"short_name":"7450.05"},"geometry":{"coordinates":[-73.9333349,40.7949879],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3498,"name":"Pleasant Ave & E 120 St","capacity":21,"short_name":"7579.01"},"geometry":{"coordinates":[-73.9311847,40.7974772],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3499,"name":"2 Ave & E 122 St","capacity":25,"short_name":"7622.12"},"geometry":{"coordinates":[-73.9349,40.8006721],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3500,"name":"E 115 St & Madison Ave","capacity":31,"short_name":"7599.02"},"geometry":{"coordinates":[-73.944846,40.7989445],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3501,"name":"E 118 St & Madison Ave","capacity":29,"short_name":"7640.04"},"geometry":{"coordinates":[-73.9442507,40.8014866],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3502,"name":"Lexington Ave & E 111 St","capacity":29,"short_name":"7567.06"},"geometry":{"coordinates":[-73.9441232,40.7954121],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3503,"name":"Madison Ave & E 120 St","capacity":30,"short_name":"7667.04"},"geometry":{"coordinates":[-73.942954,40.80295],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3504,"name":"E 123 St & Lexington Ave","capacity":27,"short_name":"7636.05"},"geometry":{"coordinates":[-73.9379,40.8029263],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3505,"name":"Lexington Ave & E 127 St","capacity":33,"short_name":"7662.13"},"geometry":{"coordinates":[-73.936322,40.805726],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3506,"name":"Lexington Ave & E 120 St","capacity":29,"short_name":"7652.04"},"geometry":{"coordinates":[-73.9398167,40.8013066],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3507,"name":"Park Ave & E 124 St","capacity":36,"short_name":"7682.01"},"geometry":{"coordinates":[-73.9396861,40.8045555],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3508,"name":"St Nicholas Ave & Manhattan Ave","capacity":31,"short_name":"7723.01"},"geometry":{"coordinates":[-73.953149,40.809725],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3509,"name":"Lenox Ave & W 115 St","capacity":31,"short_name":"7627.10"},"geometry":{"coordinates":[-73.9500739,40.8011939],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3510,"name":"Adam Clayton Powell Blvd & W 123 St","capacity":31,"short_name":"7704.04"},"geometry":{"coordinates":[-73.949373,40.8078316],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3511,"name":"Adam Clayton Powell Blvd & W 115 St","capacity":22,"short_name":"7643.18"},"geometry":{"coordinates":[-73.9532423,40.802535],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3513,"name":"21 St & Hoyt Ave S","capacity":21,"short_name":"7126.01"},"geometry":{"coordinates":[-73.923706,40.774645],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3514,"name":"Astoria Park S & Shore Blvd","capacity":23,"short_name":"7159.08"},"geometry":{"coordinates":[-73.927631,40.7767],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3515,"name":"24 Ave & 26 St","capacity":19,"short_name":"7152.10"},"geometry":{"coordinates":[-73.918544,40.774591],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3516,"name":"31 St & Astoria Blvd","capacity":31,"short_name":"6989.07"},"geometry":{"coordinates":[-73.9184057,40.7699176],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3517,"name":"31 St & Hoyt Ave N","capacity":35,"short_name":"7018.01"},"geometry":{"coordinates":[-73.9170074,40.7711528],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3518,"name":"Lenox Ave & W 126 St","capacity":34,"short_name":"7720.03"},"geometry":{"coordinates":[-73.9452087,40.808442],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3520,"name":"Adam Clayton Powell Blvd & W 118 St","capacity":27,"short_name":"7670.09"},"geometry":{"coordinates":[-73.951475,40.804372],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3521,"name":"Lenox Ave & W 111 St","capacity":36,"short_name":"7602.05"},"geometry":{"coordinates":[-73.9523,40.7987859],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3522,"name":"37 St & 24 Ave","capacity":19,"short_name":"6981.16"},"geometry":{"coordinates":[-73.9120938,40.7701477],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3523,"name":"24 Ave & 29 St","capacity":25,"short_name":"7119.04"},"geometry":{"coordinates":[-73.916142,40.7729],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3524,"name":"19 St & 24 Ave","capacity":23,"short_name":"7186.15"},"geometry":{"coordinates":[-73.9225403,40.7774552],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3525,"name":"23 Ave & 27 St","capacity":21,"short_name":"7178.02"},"geometry":{"coordinates":[-73.9153175,40.776165],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3526,"name":"31 St & 23 Ave","capacity":27,"short_name":"7144.01"},"geometry":{"coordinates":[-73.9125551,40.7747878],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3527,"name":"5 Ave & E 126 St","capacity":27,"short_name":"7701.19"},"geometry":{"coordinates":[-73.941747,40.80698],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3528,"name":"Steinway St & 23 Ave","capacity":21,"short_name":"7009.02"},"geometry":{"coordinates":[-73.9077436,40.7713937],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3529,"name":"Lenox Ave & W 130 St","capacity":25,"short_name":"7753.13"},"geometry":{"coordinates":[-73.9430681,40.8107922],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3530,"name":"Crescent St & Ditmars Blvd","capacity":19,"short_name":"7233.05"},"geometry":{"coordinates":[-73.9145645,40.7787185],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3531,"name":"Frederick Douglass Blvd & W 129 St","capacity":27,"short_name":"7795.09"},"geometry":{"coordinates":[-73.9492286,40.8125511],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3532,"name":"Ditmars Blvd & 19 St","capacity":27,"short_name":"7291.06"},"geometry":{"coordinates":[-73.9183302,40.78145],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3533,"name":"St. Nicholas Ave & W 126 St","capacity":34,"short_name":"7756.10"},"geometry":{"coordinates":[-73.9518776,40.8114323],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3534,"name":"Frederick Douglass Blvd & W 117 St","capacity":39,"short_name":"7688.12"},"geometry":{"coordinates":[-73.954692,40.805159],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3535,"name":"Mt Morris Park W & W 120 St","capacity":27,"short_name":"7685.14"},"geometry":{"coordinates":[-73.945925,40.804038],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3536,"name":"W 116 St & Broadway","capacity":43,"short_name":"7713.11"},"geometry":{"coordinates":[-73.9641,40.8082],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3537,"name":"Carlton Ave & Dean St","capacity":29,"short_name":"4199.12"},"geometry":{"coordinates":[-73.9710097,40.6809741],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3538,"name":"W 110 St & Amsterdam Ave","capacity":45,"short_name":"7646.04"},"geometry":{"coordinates":[-73.96295,40.802692],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3539,"name":"W 116 St & Amsterdam Ave","capacity":43,"short_name":"7692.11"},"geometry":{"coordinates":[-73.9607082,40.8067581],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3540,"name":"Morningside Ave & W 123 St","capacity":35,"short_name":"7741.01"},"geometry":{"coordinates":[-73.9551508,40.81],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3541,"name":"Amsterdam Ave & W 125 St","capacity":39,"short_name":"7800.03"},"geometry":{"coordinates":[-73.956461,40.813358],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3542,"name":"Amsterdam Ave & W 119 St","capacity":29,"short_name":"7727.07"},"geometry":{"coordinates":[-73.9596214,40.8086249],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3543,"name":"Morningside Dr & Amsterdam Ave","capacity":35,"short_name":"7741.04"},"geometry":{"coordinates":[-73.95736455917358,40.81028506306003],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3544,"name":"Underhill Ave & Pacific St","capacity":27,"short_name":"4231.04"},"geometry":{"coordinates":[-73.9646795,40.6804836],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3545,"name":"Broadway & W 122 St","capacity":33,"short_name":"7783.18"},"geometry":{"coordinates":[-73.9612547,40.8120562],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3546,"name":"Pacific St & Classon Ave","capacity":21,"short_name":"4148.07"},"geometry":{"coordinates":[-73.9587903,40.6791944],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3547,"name":"Broadway & Moylan Pl","capacity":41,"short_name":"7823.03"},"geometry":{"coordinates":[-73.9590255,40.8143256],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3549,"name":"Grand Ave & Bergen St","capacity":25,"short_name":"4190.06"},"geometry":{"coordinates":[-73.962408,40.678045],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3551,"name":"3 Ave & E 112 St","capacity":23,"short_name":"7543.15"},"geometry":{"coordinates":[-73.941606,40.795508],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3552,"name":"W 113 St & Broadway","capacity":39,"short_name":"7713.01"},"geometry":{"coordinates":[-73.964928,40.805973],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3553,"name":"Frederick Douglass Blvd & W 112 St","capacity":37,"short_name":"7631.23"},"geometry":{"coordinates":[-73.957145,40.801694],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3554,"name":"Vernon Blvd & 41 Rd","capacity":27,"short_name":"6514.08"},"geometry":{"coordinates":[-73.9485678,40.7552433],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3555,"name":"28 St & 41 Ave","capacity":27,"short_name":"6462.19"},"geometry":{"coordinates":[-73.93797,40.751047],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3557,"name":"40 Ave & 9 St","capacity":0,"short_name":"6664.05"},"geometry":{"coordinates":[-73.945133,40.75742],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3558,"name":"Bergen St & Vanderbilt Ave","capacity":27,"short_name":"4157.10"},"geometry":{"coordinates":[-73.9680438,40.6794388],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3559,"name":"21 St & 38 Ave","capacity":19,"short_name":"6656.05"},"geometry":{"coordinates":[-73.9391224,40.7576314],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3561,"name":"37 Ave & 35 St","capacity":26,"short_name":"6529.02"},"geometry":{"coordinates":[-73.9279917,40.7531106],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3562,"name":"Classon Ave & St Marks Ave","capacity":27,"short_name":"4074.03"},"geometry":{"coordinates":[-73.9596082,40.6765198],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3563,"name":"28 St & 36 Ave","capacity":29,"short_name":"6614.01"},"geometry":{"coordinates":[-73.932719,40.757186],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3564,"name":"21 St & 36 Ave","capacity":19,"short_name":"6729.02"},"geometry":{"coordinates":[-73.9362726,40.7601853],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3565,"name":"36 Ave & 10 St","capacity":19,"short_name":"6737.03"},"geometry":{"coordinates":[-73.9411265,40.7614376],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3566,"name":"Crescent St & 35 Ave","capacity":25,"short_name":"6688.01"},"geometry":{"coordinates":[-73.9321455,40.7596276],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3567,"name":"11 St & 35 Ave","capacity":19,"short_name":"6768.04"},"geometry":{"coordinates":[-73.9391141,40.7627442],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3568,"name":"34 St & 35 Ave","capacity":21,"short_name":"6605.08"},"geometry":{"coordinates":[-73.9262231,40.7569332],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3569,"name":"Franklin Ave & St Marks Ave","capacity":29,"short_name":"4107.05"},"geometry":{"coordinates":[-73.9561677,40.6758324],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3570,"name":"35 Ave & 37 St","capacity":31,"short_name":"6563.12"},"geometry":{"coordinates":[-73.9236611,40.7557327],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3571,"name":"Bedford Ave & Bergen St","capacity":24,"short_name":"4066.15"},"geometry":{"coordinates":[-73.952918,40.676368],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3572,"name":"34 Ave & 38 St","capacity":33,"short_name":"6638.01"},"geometry":{"coordinates":[-73.921631,40.756913],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3573,"name":"35 St & 34 Ave","capacity":25,"short_name":"6679.11"},"geometry":{"coordinates":[-73.9242751,40.7580583],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3574,"name":"Prospect Pl & Underhill Ave","capacity":23,"short_name":"4116.08"},"geometry":{"coordinates":[-73.96579,40.6769694],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3575,"name":"Crescent St & 34 Ave","capacity":19,"short_name":"6759.15"},"geometry":{"coordinates":[-73.930562,40.76108],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3576,"name":"Park Pl & Vanderbilt Ave","capacity":27,"short_name":"4083.13"},"geometry":{"coordinates":[-73.969024,40.6767],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3577,"name":"34 Ave & 21 St","capacity":23,"short_name":"6798.01"},"geometry":{"coordinates":[-73.9342862,40.7628138],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3578,"name":"Park Pl & Franklin Ave","capacity":21,"short_name":"4033.06"},"geometry":{"coordinates":[-73.9564947,40.6741806],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3579,"name":"Sterling Pl & Bedford Ave","capacity":25,"short_name":"3993.03"},"geometry":{"coordinates":[-73.954131,40.672695],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3580,"name":"St Johns Pl & Washington Ave","capacity":30,"short_name":"4001.09"},"geometry":{"coordinates":[-73.9631611,40.6737236],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3581,"name":"Underhill Ave & Lincoln Pl","capacity":27,"short_name":"4042.08"},"geometry":{"coordinates":[-73.9671457,40.6740123],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3582,"name":"Lincoln Pl & Classon Ave","capacity":28,"short_name":"3960.01"},"geometry":{"coordinates":[-73.9609,40.6721683],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3583,"name":"Eastern Pkwy & Washington Ave","capacity":31,"short_name":"3928.08"},"geometry":{"coordinates":[-73.9631145,40.6716493],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3584,"name":"Eastern Pkwy & Franklin Ave","capacity":42,"short_name":"3919.07"},"geometry":{"coordinates":[-73.9576801,40.6707767],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3585,"name":"Union St & Bedford Ave","capacity":23,"short_name":"3879.04"},"geometry":{"coordinates":[-73.9554162,40.6691783],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3586,"name":"34 Ave & 13 St","capacity":19,"short_name":"6836.07"},"geometry":{"coordinates":[-73.9364848,40.7638753],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3587,"name":"Carroll St & Washington Ave","capacity":27,"short_name":"3887.03"},"geometry":{"coordinates":[-73.9618148,40.6686744],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3588,"name":"Vernon Blvd & 10 St","capacity":21,"short_name":"6937.07"},"geometry":{"coordinates":[-73.9373554,40.7671863],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3589,"name":"Broadway & 12 St","capacity":19,"short_name":"6901.01"},"geometry":{"coordinates":[-73.9347774,40.7668],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3590,"name":"Carroll St & Franklin Ave","capacity":19,"short_name":"3847.04"},"geometry":{"coordinates":[-73.9588,40.6679411],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3591,"name":"21 St & 31 Dr","capacity":21,"short_name":"6865.03"},"geometry":{"coordinates":[-73.930819,40.7659],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3592,"name":"Crescent St & Broadway","capacity":19,"short_name":"6827.11"},"geometry":{"coordinates":[-73.9286471,40.7633589],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3593,"name":"31 St & Broadway","capacity":35,"short_name":"6789.04"},"geometry":{"coordinates":[-73.925921,40.761584],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3595,"name":"35 St & Broadway","capacity":15,"short_name":"6750.16"},"geometry":{"coordinates":[-73.9222427,40.760339],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3596,"name":"Sullivan Pl & Bedford Ave","capacity":19,"short_name":"3736.04"},"geometry":{"coordinates":[-73.9574686,40.6642406],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3597,"name":"43 St & Broadway","capacity":25,"short_name":"6670.03"},"geometry":{"coordinates":[-73.9166368,40.7577284],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3598,"name":"Newton Rd & 44 St","capacity":19,"short_name":"6743.06"},"geometry":{"coordinates":[-73.9142678,40.7595701],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3599,"name":"Franklin Ave & Empire Blvd","capacity":27,"short_name":"3704.01"},"geometry":{"coordinates":[-73.9605695,40.66314],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3600,"name":"31 Ave & Steinway St","capacity":27,"short_name":"6782.01"},"geometry":{"coordinates":[-73.9170071,40.7611488],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3601,"name":"Sterling St & Bedford Ave","capacity":19,"short_name":"3665.06"},"geometry":{"coordinates":[-73.9569115,40.6627059],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3602,"name":"31 Ave & 34 St","capacity":23,"short_name":"6819.15"},"geometry":{"coordinates":[-73.920827,40.763154],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3603,"name":"31 Ave & 30 St","capacity":21,"short_name":"6857.09"},"geometry":{"coordinates":[-73.9240312,40.7647],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3604,"name":"Rogers Ave & Sterling St","capacity":17,"short_name":"3696.05"},"geometry":{"coordinates":[-73.9538746,40.6630619],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3605,"name":"31 Ave & Crescent St","capacity":21,"short_name":"6893.10"},"geometry":{"coordinates":[-73.9265474,40.7658346],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3606,"name":"49 Ave & 21 St","capacity":21,"short_name":"6128.04"},"geometry":{"coordinates":[-73.948852,40.74252],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3607,"name":"31 Ave & 14 St","capacity":19,"short_name":"6966.04"},"geometry":{"coordinates":[-73.9322662,40.7682],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3608,"name":"5 St & 51 Ave","capacity":21,"short_name":"6137.04"},"geometry":{"coordinates":[-73.9566,40.7423737],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3609,"name":"Vernon Blvd & 31 Ave","capacity":23,"short_name":"7003.06"},"geometry":{"coordinates":[-73.9354504,40.7692475],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3610,"name":"Vernon Blvd & 30 Rd","capacity":27,"short_name":"7003.03"},"geometry":{"coordinates":[-73.934171,40.770845],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3611,"name":"Vernon Blvd & 47 Rd","capacity":31,"short_name":"6212.08"},"geometry":{"coordinates":[-73.9534573,40.7449067],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3612,"name":"30 Ave & 21 St","capacity":15,"short_name":"6996.01"},"geometry":{"coordinates":[-73.9286078,40.7703743],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3613,"name":"Center Blvd & 48 Ave","capacity":27,"short_name":"6254.06"},"geometry":{"coordinates":[-73.957539,40.745038],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3614,"name":"Crescent St & 30 Ave","capacity":23,"short_name":"6958.06"},"geometry":{"coordinates":[-73.9249574,40.768692],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3615,"name":"44 Dr & 21 St","capacity":21,"short_name":"6278.04"},"geometry":{"coordinates":[-73.9460927,40.748],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3616,"name":"Steinway St & 28 Ave","capacity":25,"short_name":"6915.02"},"geometry":{"coordinates":[-73.9136695,40.7656251],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3617,"name":"28 Ave & 35 St","capacity":27,"short_name":"6951.03"},"geometry":{"coordinates":[-73.9169858,40.7671],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3618,"name":"27 St & Hunter St","capacity":25,"short_name":"6310.06"},"geometry":{"coordinates":[-73.941275,40.7485],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3619,"name":"Newtown Ave & 23 St","capacity":19,"short_name":"7026.08"},"geometry":{"coordinates":[-73.9246145,40.7713615],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3620,"name":"11 St & 43 Ave","capacity":23,"short_name":"6438.04"},"geometry":{"coordinates":[-73.9479119,40.7519071],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3621,"name":"27 Ave & 9 St","capacity":19,"short_name":"7098.05"},"geometry":{"coordinates":[-73.9309134,40.7739825],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3622,"name":"E 128 St & Madison Ave","capacity":23,"short_name":"7735.23"},"geometry":{"coordinates":[-73.939182,40.80756],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3623,"name":"W 120 St & Claremont Ave","capacity":39,"short_name":"7745.07"},"geometry":{"coordinates":[-73.9634,40.8109494],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3628,"name":"Lenox Ave & W 117 St","capacity":31,"short_name":"7655.22"},"geometry":{"coordinates":[-73.9490782,40.8025566],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3629,"name":"Adam Clayton Powell Blvd & W 126 St","capacity":33,"short_name":"7738.04"},"geometry":{"coordinates":[-73.94776493310928,40.809495347779475],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3630,"name":"Frederick Douglass Blvd & W 115 St","capacity":33,"short_name":"7658.13"},"geometry":{"coordinates":[-73.9559308,40.8038654],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3637,"name":"Fulton St & Waverly Ave","capacity":31,"short_name":"4345.11"},"geometry":{"coordinates":[-73.96599590778351,40.683238654603414],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3638,"name":"Washington St","capacity":18,"short_name":"JC098"},"geometry":{"coordinates":[-74.0354826,40.7242941],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3639,"name":"Harborside","capacity":30,"short_name":"JC104"},"geometry":{"coordinates":[-74.034234,40.7192517],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3640,"name":"Journal Square","capacity":18,"short_name":"JC103"},"geometry":{"coordinates":[-74.0625,40.73367],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3641,"name":"Broadway & W 25 St","capacity":54,"short_name":"6173.08"},"geometry":{"coordinates":[-73.98918628692627,40.74286877312112],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3646,"name":"35 Ave & 10 St","capacity":26,"short_name":"6806.06"},"geometry":{"coordinates":[-73.93985509872437,40.76315481910373],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3647,"name":"48 Ave & 30 Pl","capacity":23,"short_name":"6076.01"},"geometry":{"coordinates":[-73.93725872039794,40.74128309355993],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3648,"name":"Flushing Ave & Vanderbilt Ave","capacity":25,"short_name":"4762.05"},"geometry":{"coordinates":[-73.97077560424805,40.697950315695444],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3649,"name":"W 129 St & Convent Ave","capacity":30,"short_name":"7818.17"},"geometry":{"coordinates":[-73.95324736833572,40.814394437915816],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3654,"name":"31 St & Northern Blvd","capacity":35,"short_name":"6495.17"},"geometry":{"coordinates":[-73.93349289894103,40.75186951421875],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3656,"name":"E 2 St & Avenue A","capacity":46,"short_name":"5553.10"},"geometry":{"coordinates":[-73.98583620786667,40.72307749068673],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3658,"name":"W 18 St & 9 Ave","capacity":27,"short_name":"6190.03"},"geometry":{"coordinates":[-74.00367558002472,40.7435337324616],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3661,"name":"Montgomery St & Franklin Ave","capacity":19,"short_name":"3776.05"},"geometry":{"coordinates":[-73.9605563879013,40.666439306870814],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3664,"name":"North Moore St & Greenwich St","capacity":30,"short_name":"5470.12"},"geometry":{"coordinates":[-74.0103006362915,40.72019521437465],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3668,"name":"Leonard St & Nassau Ave","capacity":26,"short_name":"5550.09"},"geometry":{"coordinates":[-73.94984364509583,40.7239567849954],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3671,"name":"E 81 St & 2 Ave","capacity":37,"short_name":"7121.05"},"geometry":{"coordinates":[-73.95427465438843,40.774779448957275],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3673,"name":"Dean St & Franklin Ave","capacity":21,"short_name":"4107.13"},"geometry":{"coordinates":[-73.955637216568,40.67759206937376],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3674,"name":"Jay St & York St","capacity":27,"short_name":"4895.09"},"geometry":{"coordinates":[-73.98672670125961,40.701403172577244],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3676,"name":"Van Brunt St & Van Dyke St","capacity":24,"short_name":"4095.10"},"geometry":{"coordinates":[-74.01472628116608,40.6758329439129],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3677,"name":"Glenwood Ave","capacity":18,"short_name":"JC094"},"geometry":{"coordinates":[-74.07106071710587,40.72755146730012],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3678,"name":"Fairmount Ave","capacity":18,"short_name":"JC093"},"geometry":{"coordinates":[-74.07195925712585,40.72572613742557],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3679,"name":"Bergen Ave","capacity":14,"short_name":"JC095"},"geometry":{"coordinates":[-74.07145500183105,40.722103786686034],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3680,"name":"E 43 St & 5 Ave","capacity":55,"short_name":"6551.03"},"geometry":{"coordinates":[-73.98025184869766,40.754120810779256],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3681,"name":"Grand St","capacity":18,"short_name":"JC102"},"geometry":{"coordinates":[-74.03768330812454,40.71517767732029],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3686,"name":"Gansevoort St & Hudson St","capacity":39,"short_name":"6072.14"},"geometry":{"coordinates":[-74.00507032871246,40.739448201304036],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3687,"name":"E 33 St & 1 Ave","capacity":59,"short_name":"6197.08"},"geometry":{"coordinates":[-73.97449783980846,40.74322681432173],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3689,"name":"W 104 St & Amsterdam Ave","capacity":47,"short_name":"7610.13"},"geometry":{"coordinates":[-73.96649479866028,40.799041392882984],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3690,"name":"Park Pl & Church St","capacity":36,"short_name":"5288.08"},"geometry":{"coordinates":[-74.00935515761375,40.71334184275907],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3691,"name":"28 Ave & 44 St","capacity":0,"short_name":"6879.04"},"geometry":{"coordinates":[-73.91065120697021,40.76408932350688],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3693,"name":"N 11 St & Kent Ave","capacity":27,"short_name":"5489.04"},"geometry":{"coordinates":[-73.95921930670738,40.72248188638219],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3694,"name":"Jackson Square","capacity":18,"short_name":"JC063"},"geometry":{"coordinates":[-74.0789,40.71113],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3697,"name":"W 64 St & Thelonious Monk Circle","capacity":43,"short_name":"7123.04"},"geometry":{"coordinates":[-73.98918695747852,40.77515953434235],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3699,"name":"W 50 St & 9 Ave","capacity":30,"short_name":"6854.05"},"geometry":{"coordinates":[-73.98917958140373,40.763604677958625],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3704,"name":"47 Ave & Skillman Ave","capacity":19,"short_name":"6237.01"},"geometry":{"coordinates":[-73.94176483154297,40.7437524099784],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3707,"name":"Lexington Ave & E 26 St","capacity":55,"short_name":"6089.08"},"geometry":{"coordinates":[-73.983293,40.741459],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3708,"name":"W 13 St & 5 Ave","capacity":29,"short_name":"5947.04"},"geometry":{"coordinates":[-73.99431,40.735445],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3709,"name":"W 15 St & 6 Ave","capacity":51,"short_name":"5989.02"},"geometry":{"coordinates":[-73.99642959237099,40.738046142482766],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3711,"name":"E 13 St & Avenue A","capacity":47,"short_name":"5779.09"},"geometry":{"coordinates":[-73.98067966103554,40.72966729392978],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3712,"name":"W 35 St & Dyer Ave","capacity":41,"short_name":"6569.08"},"geometry":{"coordinates":[-73.99740189313889,40.754691750226016],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3714,"name":"Division Ave & Hooper St","capacity":61,"short_name":"5045.05"},"geometry":{"coordinates":[-73.9544353965357,40.70684203101325],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3715,"name":"Driggs Ave & N 9 St","capacity":31,"short_name":"5411.08"},"geometry":{"coordinates":[-73.95520135760307,40.71816969454208],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3716,"name":"40 Ave & Crescent St","capacity":23,"short_name":"6462.05"},"geometry":{"coordinates":[-73.93795609474182,40.753599202005596],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3718,"name":"E 11 St & Avenue B","capacity":46,"short_name":"5659.11"},"geometry":{"coordinates":[-73.97950418293476,40.72746420692392],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3721,"name":"31 St & Newtown Ave","capacity":35,"short_name":"6923.20"},"geometry":{"coordinates":[-73.9209334552288,40.7675487799971],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3723,"name":"Cadman Plaza E & Johnson St","capacity":30,"short_name":"4677.10"},"geometry":{"coordinates":[-73.99015724658966,40.695317277669034],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3724,"name":"7 Ave & Central Park South","capacity":39,"short_name":"6912.01"},"geometry":{"coordinates":[-73.9790689945221,40.7667405590595],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3725,"name":"2 Ave & E 72 St","capacity":41,"short_name":"6925.09"},"geometry":{"coordinates":[-73.95840793848038,40.7687620293096],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3726,"name":"Center Blvd & 51 Ave","capacity":20,"short_name":"6179.07"},"geometry":{"coordinates":[-73.95960688591003,40.743366080270214],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3727,"name":"Frost St & Meeker Ave","capacity":38,"short_name":"5371.07"},"geometry":{"coordinates":[-73.94880026578903,40.71766197083994],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3728,"name":"Pierrepont St & Monroe Pl","capacity":24,"short_name":"4718.08"},"geometry":{"coordinates":[-73.99344027042389,40.69535693320225],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3731,"name":"W 47 St & 6 Ave","capacity":46,"short_name":"6667.04"},"geometry":{"coordinates":[-73.98255,40.758397],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3733,"name":"Avenue C & E 18 St","capacity":46,"short_name":"5769.04"},"geometry":{"coordinates":[-73.973984,40.730563],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3734,"name":"E 58 St &  1 Ave (NW Corner)","capacity":50,"short_name":"6723.10"},"geometry":{"coordinates":[-73.962658,40.759125],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3735,"name":"W 30 St & 10 Ave","capacity":38,"short_name":"6459.07"},"geometry":{"coordinates":[-74.002353,40.752694],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3736,"name":"E 12 St & Ave C","capacity":0,"short_name":"5616.08"},"geometry":{"coordinates":[-73.976831,40.727243],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3737,"name":"Stanton St & Norfolk St","capacity":35,"short_name":"5445.07"},"geometry":{"coordinates":[-73.986274,40.720747],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3738,"name":"Delancey St & Eldridge St","capacity":31,"short_name":"5414.07"},"geometry":{"coordinates":[-73.991479,40.719383],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3739,"name":"Perry St & Greenwich Ave","capacity":37,"short_name":"5955.12"},"geometry":{"coordinates":[-74.000939,40.735918],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3740,"name":"W Broadway & W Houston St","capacity":34,"short_name":"5644.05"},"geometry":{"coordinates":[-74.000472,40.726378],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3744,"name":"1 Ave & E 5 St","capacity":51,"short_name":"5626.14"},"geometry":{"coordinates":[-73.986389,40.725864],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3745,"name":"36 Ave & 31 St","capacity":27,"short_name":"6572.08"},"geometry":{"coordinates":[-73.92957486212252,40.75651272984955],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3746,"name":"6 Ave & Broome St","capacity":48,"short_name":"5610.09"},"geometry":{"coordinates":[-74.00473035871983,40.724308321602166],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3749,"name":"Lexington Ave & E 36 St","capacity":23,"short_name":"6313.10"},"geometry":{"coordinates":[-73.9788007736206,40.747573958954796],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3755,"name":"DeKalb Ave & Franklin Ave","capacity":19,"short_name":"4528.01"},"geometry":{"coordinates":[-73.95746178925037,40.69064807082943],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3756,"name":"White St & Moore St","capacity":21,"short_name":"4987.06"},"geometry":{"coordinates":[-73.9351,40.704508],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3757,"name":"Stagg St & Morgan Ave","capacity":23,"short_name":"5170.01"},"geometry":{"coordinates":[-73.93372,40.710681],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3758,"name":"George St & Wilson Ave","capacity":19,"short_name":"4906.07"},"geometry":{"coordinates":[-73.92997,40.702997],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3759,"name":"Irving Ave & Jefferson St","capacity":19,"short_name":"5051.02"},"geometry":{"coordinates":[-73.92535,40.70538],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3760,"name":"Willoughby Ave & Wyckoff Ave","capacity":23,"short_name":"5010.02"},"geometry":{"coordinates":[-73.92153,40.705614],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3761,"name":"Cedar St & Myrtle Ave","capacity":27,"short_name":"4751.01"},"geometry":{"coordinates":[-73.926241,40.697842],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3762,"name":"3 Ave & Carroll St","capacity":27,"short_name":"4143.04"},"geometry":{"coordinates":[-73.9865,40.677027],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3763,"name":"Wyckoff Av & Jefferson St","capacity":27,"short_name":"5051.01"},"geometry":{"coordinates":[-73.923711,40.707165],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3764,"name":"Bushwick Ave & McKibbin St","capacity":21,"short_name":"5027.02"},"geometry":{"coordinates":[-73.93936,40.705517],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3765,"name":"Bushwick Ave & Stagg St","capacity":21,"short_name":"5140.06"},"geometry":{"coordinates":[-73.94008,40.709897],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3766,"name":"Sharon St & Olive St","capacity":24,"short_name":"5323.05"},"geometry":{"coordinates":[-73.93856,40.715353],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3767,"name":"Powers St & Olive St","capacity":0,"short_name":"5210.01"},"geometry":{"coordinates":[-73.93894,40.71323],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3768,"name":"Waterbury St & Stagg St","capacity":23,"short_name":"5099.02"},"geometry":{"coordinates":[-73.93734,40.71019],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3769,"name":"White St & Johnson Ave","capacity":23,"short_name":"5099.03"},"geometry":{"coordinates":[-73.93581,40.707174],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3770,"name":"Central Ave & Flushing Ave","capacity":21,"short_name":"4947.04"},"geometry":{"coordinates":[-73.9333,40.702831],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3771,"name":"McKibbin St & Bogart St","capacity":30,"short_name":"5059.02"},"geometry":{"coordinates":[-73.933871,40.706237],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3772,"name":"Devoe St & Morgan Ave","capacity":19,"short_name":"5282.02"},"geometry":{"coordinates":[-73.93515,40.713811],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3773,"name":"Knickerbocker Ave & Thames St","capacity":20,"short_name":"5018.06"},"geometry":{"coordinates":[-73.92976,40.70539],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3774,"name":"Knickerbocker Ave & George St","capacity":23,"short_name":"4979.07"},"geometry":{"coordinates":[-73.92836,40.704425],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3775,"name":"Suydam St & Knickerbocker Ave","capacity":27,"short_name":"4939.07"},"geometry":{"coordinates":[-73.923769,40.702013],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3776,"name":"Central Ave & Starr Street","capacity":23,"short_name":"4792.03"},"geometry":{"coordinates":[-73.92834,40.700003],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3777,"name":"Stockholm St & Wilson Ave","capacity":23,"short_name":"4824.03"},"geometry":{"coordinates":[-73.923044,40.699304],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3778,"name":"Irving Ave & DeKalb Ave","capacity":27,"short_name":"4898.02"},"geometry":{"coordinates":[-73.92095,40.7027],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3779,"name":"Hart St & Wyckoff Ave","capacity":24,"short_name":"4971.01"},"geometry":{"coordinates":[-73.919911,40.704876],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3780,"name":"Wyckoff Av & Stanhope St","capacity":22,"short_name":"4931.05"},"geometry":{"coordinates":[-73.917775,40.703545],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3781,"name":"Greene Av & Myrtle Av","capacity":30,"short_name":"4784.02"},"geometry":{"coordinates":[-73.918877,40.698568],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3782,"name":"Brooklyn Bridge Park - Pier 2","capacity":31,"short_name":"4756.04"},"geometry":{"coordinates":[-73.997178,40.698458],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3783,"name":"Cliff St & Fulton St","capacity":73,"short_name":"5065.14"},"geometry":{"coordinates":[-74.00495,40.70838],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3785,"name":"W 42 St & 6 Ave","capacity":37,"short_name":"6517.08"},"geometry":{"coordinates":[-73.98455,40.75492],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3786,"name":"Division St & Bowery","capacity":49,"short_name":"5270.08"},"geometry":{"coordinates":[-73.996732,40.714193],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3787,"name":"Dock 72 Way & Market St","capacity":22,"short_name":"4804.02"},"geometry":{"coordinates":[-73.97141,40.69985],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3789,"name":"Fulton St & Irving Pl","capacity":31,"short_name":"4263.12"},"geometry":{"coordinates":[-73.959432,40.68186],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3790,"name":"Henry St & Middagh St","capacity":37,"short_name":"4861.05"},"geometry":{"coordinates":[-73.991581,40.7003],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3791,"name":"Hoboken Ave at Monmouth St","capacity":32,"short_name":"JC105"},"geometry":{"coordinates":[-74.04696375131607,40.73520838045357],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3792,"name":"Columbus Dr at Exchange Pl","capacity":30,"short_name":"JC106"},"geometry":{"coordinates":[-74.03281,40.71687],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3795,"name":"10 St & 2 Ave","capacity":19,"short_name":"3922.02"},"geometry":{"coordinates":[-73.993612,40.671907],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3798,"name":"W 40 St & 5 Ave","capacity":55,"short_name":"6474.02"},"geometry":{"coordinates":[-73.982079,40.752269],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3799,"name":"6 Ave & W 34 St","capacity":67,"short_name":"6364.10"},"geometry":{"coordinates":[-73.98805,40.74964],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3803,"name":"Bedford Ave & Montgomery St","capacity":27,"short_name":"3736.03"},"geometry":{"coordinates":[-73.956934,40.665816],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3804,"name":"Front St & Jay St","capacity":24,"short_name":"4895.03"},"geometry":{"coordinates":[-73.986842,40.702461],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3808,"name":"24 St & 41 Ave","capacity":19,"short_name":"6505.09"},"geometry":{"coordinates":[-73.939991,40.752474],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3809,"name":"W 55 St & 6 Ave","capacity":53,"short_name":"6809.09"},"geometry":{"coordinates":[-73.978434,40.763189],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3811,"name":"27 Ave & 3 St","capacity":19,"short_name":"7132.08"},"geometry":{"coordinates":[-73.9342,40.77485],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3812,"name":"University Pl & E 14 St","capacity":49,"short_name":"5905.14"},"geometry":{"coordinates":[-73.992085,40.734814],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3814,"name":"E 56 St & Madison Ave","capacity":23,"short_name":"6732.01"},"geometry":{"coordinates":[-73.972628,40.761573],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3815,"name":"E 51 St & 2 Ave","capacity":41,"short_name":"6575.03"},"geometry":{"coordinates":[-73.967641,40.755293],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3816,"name":"Metropolitan Ave & Vandervoort Ave","capacity":24,"short_name":"5241.02"},"geometry":{"coordinates":[-73.93323,40.71429],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3817,"name":"Withers St & Kingsland Ave","capacity":18,"short_name":"5362.08"},"geometry":{"coordinates":[-73.94051,40.71773],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3818,"name":"Calyer St & Jewel St","capacity":39,"short_name":"5743.02"},"geometry":{"coordinates":[-73.94839,40.72984],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3819,"name":"Green St & McGuinness Blvd","capacity":20,"short_name":"5860.02"},"geometry":{"coordinates":[-73.95204,40.73396],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3820,"name":"Willoughby Ave & Myrtle Ave","capacity":19,"short_name":"4759.02"},"geometry":{"coordinates":[-73.93098,40.69757],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3821,"name":"Evergreen Ave & Noll St","capacity":25,"short_name":"4873.08"},"geometry":{"coordinates":[-73.93318,40.70106],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3822,"name":"Bushwick Ave & Forrest St","capacity":20,"short_name":"4914.03"},"geometry":{"coordinates":[-73.93641,40.70076],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3823,"name":"Beaver St & Fayette St","capacity":30,"short_name":"4840.06"},"geometry":{"coordinates":[-73.93921,40.70099],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3824,"name":"Van Sinderen Ave & Truxton St","capacity":23,"short_name":"4161.01"},"geometry":{"coordinates":[-73.90369,40.6786],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3825,"name":"Broadway & Furman Ave","capacity":29,"short_name":"4244.06"},"geometry":{"coordinates":[-73.90756,40.68139],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3826,"name":"Moffat St & Bushwick","capacity":18,"short_name":"4357.01"},"geometry":{"coordinates":[-73.90925,40.68458],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3827,"name":"Halsey St & Broadway","capacity":20,"short_name":"4366.01"},"geometry":{"coordinates":[-73.91564,40.68565],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3828,"name":"Eldert St & Bushwick Ave","capacity":22,"short_name":"4399.03"},"geometry":{"coordinates":[-73.91321,40.68652],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3829,"name":"Central Ave & Decatur St","capacity":24,"short_name":"4432.10"},"geometry":{"coordinates":[-73.90798,40.6882],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3830,"name":"Halsey St & Evergreen Ave","capacity":22,"short_name":"4474.01"},"geometry":{"coordinates":[-73.91227,40.68858],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3831,"name":"Broadway & Hancock St","capacity":35,"short_name":"4441.06"},"geometry":{"coordinates":[-73.9168,40.68663],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3832,"name":"Central Ave & Weirfield St","capacity":21,"short_name":"4591.04"},"geometry":{"coordinates":[-73.91181,40.69055],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3833,"name":"Madison St & Evergreen Ave","capacity":18,"short_name":"4560.01"},"geometry":{"coordinates":[-73.91693,40.69122],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3834,"name":"Irving Ave & Halsey St","capacity":19,"short_name":"4695.04"},"geometry":{"coordinates":[-73.90663,40.69467],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3835,"name":"Knickerbocker Ave & Hancock St","capacity":22,"short_name":"4663.02"},"geometry":{"coordinates":[-73.90974,40.69385],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3836,"name":"Bushwick Ave & Linden St","capacity":29,"short_name":"4600.09"},"geometry":{"coordinates":[-73.92146,40.69146],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3837,"name":"Broadway & Kosciuszko St","capacity":29,"short_name":"4608.01"},"geometry":{"coordinates":[-73.92852,40.69329],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3838,"name":"Bushwick Ave & Harman St","capacity":25,"short_name":"4640.01"},"geometry":{"coordinates":[-73.92524,40.69356],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3839,"name":"Putnam Ave & Knickerbocker Ave","capacity":29,"short_name":"4663.06"},"geometry":{"coordinates":[-73.91164,40.69545],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3840,"name":"Putnam Ave & Wyckoff Ave","capacity":24,"short_name":"4735.03"},"geometry":{"coordinates":[-73.90904,40.69811],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3841,"name":"Menahan St & Central Ave","capacity":25,"short_name":"4672.01"},"geometry":{"coordinates":[-73.9196,40.69543],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3842,"name":"Bushwick Ave & Dekalb Ave","capacity":29,"short_name":"4680.05"},"geometry":{"coordinates":[-73.92825,40.69502],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3843,"name":"Myrtle Ave & Grove St","capacity":23,"short_name":"4816.05"},"geometry":{"coordinates":[-73.91516,40.69905],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3844,"name":"Myrtle Ave & Linden St","capacity":25,"short_name":"4816.02"},"geometry":{"coordinates":[-73.91337,40.69943],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3845,"name":"Irving Ave & Harman St","capacity":21,"short_name":"4856.05"},"geometry":{"coordinates":[-73.9179,40.70108],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3846,"name":"Central Ave & Himrod St","capacity":25,"short_name":"4713.01"},"geometry":{"coordinates":[-73.92302,40.69676],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3847,"name":"Cedar St & Evergreen Ave","capacity":25,"short_name":"4721.01"},"geometry":{"coordinates":[-73.92807,40.69671],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3848,"name":"Suydam St & Broadway","capacity":32,"short_name":"4689.03"},"geometry":{"coordinates":[-73.93223,40.69544],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3849,"name":"Suydam St & St. Nicholas Ave","capacity":17,"short_name":"5043.06"},"geometry":{"coordinates":[-73.91945,40.70636],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3850,"name":"Jefferson St & Cypress Ave","capacity":25,"short_name":"5082.08"},"geometry":{"coordinates":[-73.92157,40.70907],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3851,"name":"Metropolitan Ave & Stewart Ave","capacity":20,"short_name":"5273.01"},"geometry":{"coordinates":[-73.92793,40.71401],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3852,"name":"Stewart Ave & Johnson Ave","capacity":17,"short_name":"5123.07"},"geometry":{"coordinates":[-73.92587,40.70869],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3853,"name":"Harrison Pl & Porter Ave","capacity":20,"short_name":"5090.06"},"geometry":{"coordinates":[-73.92851,40.70686],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3854,"name":"Morgan Ave & Maspeth Ave","capacity":25,"short_name":"5354.01"},"geometry":{"coordinates":[-73.93637,40.716657],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3855,"name":"Frost St & Debevoise Ave","capacity":22,"short_name":"5433.04"},"geometry":{"coordinates":[-73.93948,40.71882],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3856,"name":"Kingsland Ave & Nassau Ave","capacity":25,"short_name":"5613.04"},"geometry":{"coordinates":[-73.94173,40.72577],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3857,"name":"Engert Ave & McGuinness Blvd","capacity":19,"short_name":"5473.03"},"geometry":{"coordinates":[-73.94546,40.72158],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3858,"name":"Kent St & McGuinness Blvd","capacity":20,"short_name":"5785.10"},"geometry":{"coordinates":[-73.95161,40.73124],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3859,"name":"Lorimer St & Calyer St","capacity":20,"short_name":"5709.04"},"geometry":{"coordinates":[-73.95414,40.72795],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3860,"name":"Wilson Ave & Troutman St","capacity":26,"short_name":"4864.09"},"geometry":{"coordinates":[-73.92754,40.70166],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3861,"name":"Menahan St & Wyckoff Ave","capacity":20,"short_name":"4890.11"},"geometry":{"coordinates":[-73.91422,40.70113],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3862,"name":"Linden St & Knickerbocker Ave","capacity":18,"short_name":"4743.04"},"geometry":{"coordinates":[-73.91566,40.69714],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3863,"name":"Central Ave & Woodbine St","capacity":18,"short_name":"4632.10"},"geometry":{"coordinates":[-73.91605,40.69296],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3864,"name":"Central Ave & Covert St","capacity":30,"short_name":"4550.05"},"geometry":{"coordinates":[-73.90951,40.68929],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3865,"name":"Knickerbocker Ave & Cooper St","capacity":24,"short_name":"4582.05"},"geometry":{"coordinates":[-73.90448,40.69081],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3866,"name":"Wilson Ave & Moffat St","capacity":32,"short_name":"4507.07"},"geometry":{"coordinates":[-73.90506,40.68906],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3867,"name":"Somers St & Broadway","capacity":29,"short_name":"4203.04"},"geometry":{"coordinates":[-73.90474,40.67945],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3868,"name":"Knickerbocker Ave & Halsey St","capacity":19,"short_name":"4623.02"},"geometry":{"coordinates":[-73.90824,40.693],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3869,"name":"Van Buren St & Broadway","capacity":24,"short_name":"4568.01"},"geometry":{"coordinates":[-73.92617,40.692],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3870,"name":"Melrose St & Broadway","capacity":20,"short_name":"4801.04"},"geometry":{"coordinates":[-73.935877,40.697481],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3871,"name":"Bushwick Ave & Furman Ave","capacity":30,"short_name":"4317.05"},"geometry":{"coordinates":[-73.90623,40.68281],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3872,"name":"Hancock St & Wyckoff Ave","capacity":19,"short_name":"4735.16"},"geometry":{"coordinates":[-73.90674,40.6972],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3873,"name":"Madison St & Cypress Ave","capacity":17,"short_name":"4807.02"},"geometry":{"coordinates":[-73.90742,40.70068],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3874,"name":"Menahan St & Seneca Ave","capacity":16,"short_name":"4963.13"},"geometry":{"coordinates":[-73.91054,40.70461],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3875,"name":"Stephen St & Seneca Ave","capacity":15,"short_name":"4798.10"},"geometry":{"coordinates":[-73.9007,40.6988],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3876,"name":"Forest Ave & Summerfield St","capacity":23,"short_name":"4798.02"},"geometry":{"coordinates":[-73.89795,40.69922],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3877,"name":"Madison St & Forest Ave","capacity":25,"short_name":"5025.02"},"geometry":{"coordinates":[-73.90245,40.70555],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3878,"name":"Cypress Ave & George St","capacity":19,"short_name":"4765.07"},"geometry":{"coordinates":[-73.90271,40.69812],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3879,"name":"Broadway & Madison St","capacity":25,"short_name":"4483.10"},"geometry":{"coordinates":[-73.91966,40.68822],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3880,"name":"Willoughby Ave & Onderdonk Ave","capacity":27,"short_name":"5115.05"},"geometry":{"coordinates":[-73.91727,40.7098],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3881,"name":"12 Ave & W 125 St","capacity":39,"short_name":"7886.02"},"geometry":{"coordinates":[-73.960405,40.818299],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3882,"name":"Norman St & Wyckoff Ave","capacity":15,"short_name":"4654.01"},"geometry":{"coordinates":[-73.90311,40.69517],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3883,"name":"Harman St & Seneca Ave","capacity":19,"short_name":"5002.09"},"geometry":{"coordinates":[-73.91292,40.70577],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3884,"name":"Centre St & Seneca Ave","capacity":23,"short_name":"4837.03"},"geometry":{"coordinates":[-73.9022,40.69969],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3885,"name":"Onderdonk Ave & Gates Ave","capacity":19,"short_name":"4994.10"},"geometry":{"coordinates":[-73.90737,40.70413],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3886,"name":"Menahan St & Onderdonk Ave","capacity":20,"short_name":"5034.03"},"geometry":{"coordinates":[-73.9096,40.70553],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3887,"name":"Flushing Ave & Woodward Ave","capacity":21,"short_name":"5225.02"},"geometry":{"coordinates":[-73.91873,40.71246],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3888,"name":"Woodward Ave & Harman St","capacity":19,"short_name":"5074.08"},"geometry":{"coordinates":[-73.91092,40.70793],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3890,"name":"Grove St & Broadway","capacity":31,"short_name":"4526.01"},"geometry":{"coordinates":[-73.923511,40.69047],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3891,"name":"Irving Ave & Palmetto St","capacity":20,"short_name":"4775.01"},"geometry":{"coordinates":[-73.9127,40.698],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3892,"name":"38 Ave & 29 St","capacity":19,"short_name":"6538.11"},"geometry":{"coordinates":[-73.93367,40.75473],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3893,"name":"Rockaway Ave & Bainbridge St","capacity":25,"short_name":"4285.09"},"geometry":{"coordinates":[-73.91166642308235,40.68319988172761],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3895,"name":"Cypress Ave & Palmetto St","capacity":25,"short_name":"4921.04"},"geometry":{"coordinates":[-73.90876293182373,40.701573408737914],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3896,"name":"Madison St & Seneca Ave","capacity":22,"short_name":"4880.11"},"geometry":{"coordinates":[-73.90625,40.70183],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3897,"name":"Onderdonk Ave & Dekalb Ave","capacity":17,"short_name":"5115.01"},"geometry":{"coordinates":[-73.91497,40.70863],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3898,"name":"E 63 St & 3 Ave","capacity":57,"short_name":"6830.02"},"geometry":{"coordinates":[-73.9646,40.763954],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3899,"name":"Manhattan Av & Leonard St","capacity":18,"short_name":"5442.09"},"geometry":{"coordinates":[-73.94844,40.72084],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3900,"name":"Morgan Ave & Lombardy St","capacity":30,"short_name":"5503.01"},"geometry":{"coordinates":[-73.93889,40.72226],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3901,"name":"Stanhope St & Fairview Ave","capacity":17,"short_name":"5146.03"},"geometry":{"coordinates":[-73.91116,40.70998],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3902,"name":"Fairview Ave & Linden St","capacity":19,"short_name":"5066.03"},"geometry":{"coordinates":[-73.90632,40.70694],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3903,"name":"Jefferson Ave & Evergreen Ave","capacity":17,"short_name":"4517.03"},"geometry":{"coordinates":[-73.91458,40.68989],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3905,"name":"4 Ave & E 12 St","capacity":27,"short_name":"5788.15"},"geometry":{"coordinates":[-73.99011,40.732647],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3906,"name":"West St & Liberty St","capacity":32,"short_name":"5184.08"},"geometry":{"coordinates":[-74.014847,40.711444],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3907,"name":"Central Ave & Melrose St","capacity":17,"short_name":"4832.07"},"geometry":{"coordinates":[-73.93039,40.70112],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3909,"name":"Madison St & Woodward Ave","capacity":20,"short_name":"4954.07"},"geometry":{"coordinates":[-73.90408,40.70408],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3910,"name":"Greene Ave & Grandview Ave","capacity":17,"short_name":"5106.04"},"geometry":{"coordinates":[-73.907856,40.709697],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3911,"name":"Wyckoff St & Nevins St","capacity":22,"short_name":"4290.08"},"geometry":{"coordinates":[-73.984275,40.683426],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3913,"name":"Sands St Gate","capacity":19,"short_name":"4812.04"},"geometry":{"coordinates":[-73.979827,40.699569],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3914,"name":"West End Ave & W 78 St","capacity":39,"short_name":"7340.07"},"geometry":{"coordinates":[-73.981687,40.783786],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3916,"name":"Pearl St & Peck Slip","capacity":45,"short_name":"5096.11"},"geometry":{"coordinates":[-74.002751,40.708485],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3917,"name":"Willoughby St & Ashland Pl","capacity":31,"short_name":"4587.02"},"geometry":{"coordinates":[-73.97877,40.69178],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3918,"name":"Avenue D & E 8 St","capacity":30,"short_name":"5575.12"},"geometry":{"coordinates":[-73.975767,40.72387],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3919,"name":"Wall St & South St","capacity":37,"short_name":"4953.01"},"geometry":{"coordinates":[-74.00637,40.70437],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3920,"name":"E 132 St & Madison Ave","capacity":19,"short_name":"7748.02"},"geometry":{"coordinates":[-73.937195,40.810224],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3921,"name":"Willis Ave & Bruckner Blvd","capacity":19,"short_name":"7691.05"},"geometry":{"coordinates":[-73.925177,40.805701],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3923,"name":"Lincoln Ave & E 134 St","capacity":17,"short_name":"7712.06"},"geometry":{"coordinates":[-73.928803,40.808484],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3924,"name":"Lincoln Ave & E 138 St","capacity":25,"short_name":"7744.06"},"geometry":{"coordinates":[-73.927311,40.810893],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3925,"name":"E 138 St & Canal St W","capacity":21,"short_name":"7803.03"},"geometry":{"coordinates":[-73.929153,40.812304],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3926,"name":"5 Ave & W 131 St","capacity":20,"short_name":"7735.05"},"geometry":{"coordinates":[-73.93973,40.81014],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3927,"name":"Lenox Ave & W 133 St","capacity":27,"short_name":"7790.04"},"geometry":{"coordinates":[-73.941878,40.81296],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3928,"name":"Adam Clayton Powell Blvd & W 132 St","capacity":18,"short_name":"7814.01"},"geometry":{"coordinates":[-73.94521,40.813539],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3929,"name":"Willis Ave & E 141 St","capacity":19,"short_name":"7759.08"},"geometry":{"coordinates":[-73.921606,40.81093],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3930,"name":"E 142 St & 3 Ave","capacity":19,"short_name":"7781.10"},"geometry":{"coordinates":[-73.923697,40.812735],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3931,"name":"Morris Ave & E 142 St","capacity":23,"short_name":"7821.01"},"geometry":{"coordinates":[-73.924963,40.814469],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3932,"name":"Grand Concourse & E 144 St","capacity":23,"short_name":"7845.06"},"geometry":{"coordinates":[-73.927987,40.816576],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3934,"name":"St Nicholas Ave & E 134 St","capacity":27,"short_name":"7837.30"},"geometry":{"coordinates":[-73.948222,40.816234],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3935,"name":"Amsterdam Ave & W 131 St","capacity":19,"short_name":"7842.16"},"geometry":{"coordinates":[-73.954295,40.816355],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3936,"name":"W 133 St & 12 Ave","capacity":19,"short_name":"7925.04"},"geometry":{"coordinates":[-73.959089,40.820003],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3937,"name":"E 135 St & St Ann's Ave","capacity":23,"short_name":"7687.05"},"geometry":{"coordinates":[-73.918889,40.805089],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3938,"name":"E 133 St & Cypress Pl","capacity":19,"short_name":"7642.04"},"geometry":{"coordinates":[-73.9174,40.80262],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3939,"name":"Willow Ave & E 133 St","capacity":21,"short_name":"7626.02"},"geometry":{"coordinates":[-73.913863,40.800933],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3940,"name":"E 134 St & Walnut Ave","capacity":16,"short_name":"7613.04"},"geometry":{"coordinates":[-73.911034,40.800425],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3941,"name":"Walnut Ave & E 136 St","capacity":17,"short_name":"7639.06"},"geometry":{"coordinates":[-73.909513,40.801657],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3942,"name":"Broadway & W 133 St","capacity":21,"short_name":"7903.02"},"geometry":{"coordinates":[-73.956156,40.8190344],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3944,"name":"Convent Ave & W 135 St","capacity":30,"short_name":"7860.08"},"geometry":{"coordinates":[-73.950988,40.818215],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3945,"name":"Amsterdam Ave & W 136 St","capacity":21,"short_name":"7920.05"},"geometry":{"coordinates":[-73.951819,40.819746],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3946,"name":"St Nicholas Ave & W 137 St","capacity":21,"short_name":"7898.03"},"geometry":{"coordinates":[-73.947568,40.818477],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3947,"name":"E 138 St & Willow Ave","capacity":18,"short_name":"7654.04"},"geometry":{"coordinates":[-73.911545,40.804168],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3948,"name":"E 138 St & Cypress Ave","capacity":23,"short_name":"7669.10"},"geometry":{"coordinates":[-73.914718,40.805559],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3949,"name":"Brook Ave & E 138 St","capacity":23,"short_name":"7707.08"},"geometry":{"coordinates":[-73.91924,40.807408],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3950,"name":"Brook Ave & E 141 St","capacity":19,"short_name":"7740.08"},"geometry":{"coordinates":[-73.917875,40.809619],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3951,"name":"E 141 St & St Ann's Ave","capacity":19,"short_name":"7722.06"},"geometry":{"coordinates":[-73.916124,40.808633],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3952,"name":"E 141 St & Jackson Ave","capacity":19,"short_name":"7703.14"},"geometry":{"coordinates":[-73.911837,40.806896],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3953,"name":"W 147 St & Adam Clayton Powell Blvd","capacity":25,"short_name":"7971.07"},"geometry":{"coordinates":[-73.937413,40.82281],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3955,"name":"St Mary's St & Jackson Ave","capacity":19,"short_name":"7737.06"},"geometry":{"coordinates":[-73.91081,40.808891],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3956,"name":"St. Ann's Ave & E 144 St","capacity":23,"short_name":"7755.03"},"geometry":{"coordinates":[-73.914932,40.811112],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3957,"name":"E 144 St & Brook Ave","capacity":19,"short_name":"7777.02"},"geometry":{"coordinates":[-73.917037,40.811675],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3958,"name":"Willis Ave & E 143 St","capacity":23,"short_name":"7798.02"},"geometry":{"coordinates":[-73.92037,40.812299],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3959,"name":"Edgecombe Ave & W 145 St","capacity":31,"short_name":"7976.08"},"geometry":{"coordinates":[-73.94386,40.823498],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3960,"name":"Hamilton Pl & W 140 St","capacity":0,"short_name":"7959.18"},"geometry":{"coordinates":[-73.951346,40.822756],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3961,"name":"Morris Ave & E 153 St","capacity":19,"short_name":"7901.04"},"geometry":{"coordinates":[-73.921411,40.820036],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3963,"name":"Melrose Ave & E 150 St","capacity":31,"short_name":"7879.01"},"geometry":{"coordinates":[-73.917338,40.816827],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3964,"name":"Brook Ave & E 148 St","capacity":20,"short_name":"7816.14"},"geometry":{"coordinates":[-73.915368,40.814383],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3965,"name":"E 149 St & Eagle Ave","capacity":19,"short_name":"7793.02"},"geometry":{"coordinates":[-73.91186,40.814046],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3966,"name":"Wales Ave & E 147 St","capacity":19,"short_name":"7751.05"},"geometry":{"coordinates":[-73.907729,40.811314],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3967,"name":"W 146 St & Broadway","capacity":30,"short_name":"8018.09"},"geometry":{"coordinates":[-73.949738,40.826969],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3968,"name":"Prospect Ave & E 151 St","capacity":21,"short_name":"7830.03"},"geometry":{"coordinates":[-73.903927,40.814232],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3969,"name":"St Ann's Ave & Westchester Ave","capacity":19,"short_name":"7835.10"},"geometry":{"coordinates":[-73.911918,40.815887],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3970,"name":"Melrose Ave & E 154 St","capacity":19,"short_name":"7918.12"},"geometry":{"coordinates":[-73.916071,40.819609],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3982,"name":"Bergen Ave & E 152 St","capacity":21,"short_name":"7858.02"},"geometry":{"coordinates":[-73.914737,40.817166],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3984,"name":"W 140 St & Riverside Dr","capacity":23,"short_name":"7981.27"},"geometry":{"coordinates":[-73.954743,40.824013],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3986,"name":"E 149 St & Morris Ave","capacity":35,"short_name":"7863.03"},"geometry":{"coordinates":[-73.922962,40.81734],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3987,"name":"E 149 St & Jackson Ave","capacity":23,"short_name":"7812.01"},"geometry":{"coordinates":[-73.909235,40.813135],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3988,"name":"E 128 St & 3 Ave","capacity":19,"short_name":"7696.07"},"geometry":{"coordinates":[-73.934077,40.805631],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3989,"name":"Willis Ave & E 137 St","capacity":22,"short_name":"7726.02"},"geometry":{"coordinates":[-73.923604,40.808384],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3992,"name":"W 169 St & Fort Washington Ave","capacity":47,"short_name":"8282.13"},"geometry":{"coordinates":[-73.9421253,40.8428422],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3994,"name":"2 Ave & E 125 St","capacity":30,"short_name":"7648.16"},"geometry":{"coordinates":[-73.933509,40.802554],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3995,"name":"5 Ave & E 135 St","capacity":21,"short_name":"7769.06"},"geometry":{"coordinates":[-73.937838,40.812191],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3996,"name":"Lexington Ave & E 128 St","capacity":24,"short_name":"7716.19"},"geometry":{"coordinates":[-73.936085,40.806414],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3997,"name":"5 Av & W 139 St","capacity":20,"short_name":"7851.04"},"geometry":{"coordinates":[-73.935856,40.815484],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3998,"name":"W 135 St & Lenox Terrace Pl","capacity":29,"short_name":"7832.04"},"geometry":{"coordinates":[-73.939336,40.813619],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":3999,"name":"Adam Clayton Powell Blvd & W 138 St","capacity":23,"short_name":"7855.03"},"geometry":{"coordinates":[-73.9422959089279,40.81695971032464],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4000,"name":"Lenox Ave & W 144 St","capacity":22,"short_name":"7910.01"},"geometry":{"coordinates":[-73.936521,40.819783],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4001,"name":"Lenox Ave & W 146 St","capacity":24,"short_name":"7910.10"},"geometry":{"coordinates":[-73.935971,40.821111],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4002,"name":"W 144 St & Adam Clayton Powell Blvd","capacity":24,"short_name":"7932.10"},"geometry":{"coordinates":[-73.939249,40.820877],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4004,"name":"Edgecombe Ave & W 141 St","capacity":21,"short_name":"7915.11"},"geometry":{"coordinates":[-73.945144,40.820681],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4005,"name":"St. Nicholas Terrace & Convent Ave","capacity":24,"short_name":"7937.15"},"geometry":{"coordinates":[-73.947868,40.821294],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4006,"name":"E 147 St & Bergen Ave","capacity":25,"short_name":"7840.11"},"geometry":{"coordinates":[-73.91839,40.814673],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4007,"name":"Riverside Dr & W 138 St","capacity":30,"short_name":"7942.21"},"geometry":{"coordinates":[-73.955857,40.823168],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4009,"name":"Riverside Dr & W 145 St","capacity":35,"short_name":"8018.04"},"geometry":{"coordinates":[-73.951989,40.827305],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4010,"name":"W 145 St & Amsterdam Ave","capacity":24,"short_name":"7997.08"},"geometry":{"coordinates":[-73.947257,40.825244],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4011,"name":"Westchester Ave & Jackson Ave","capacity":25,"short_name":"7853.01"},"geometry":{"coordinates":[-73.908116,40.816124],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4012,"name":"W 148 St & Amsterdam Ave","capacity":23,"short_name":"8033.09"},"geometry":{"coordinates":[-73.945909,40.827075],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4014,"name":"Riverside Dr & W 148 St","capacity":22,"short_name":"8054.04"},"geometry":{"coordinates":[-73.950426,40.829114],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4016,"name":"Adam Clayton Powell Blvd & W 130 St","capacity":22,"short_name":"7774.02"},"geometry":{"coordinates":[-73.946168,40.812346],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4017,"name":"E 138 St & 5 Av","capacity":22,"short_name":"7809.13"},"geometry":{"coordinates":[-73.936153,40.81449],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4018,"name":"Broadway & W 131 St","capacity":21,"short_name":"7865.09"},"geometry":{"coordinates":[-73.957163,40.817555],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4019,"name":"St. Ann's Av & Bruckner Blvd","capacity":17,"short_name":"7657.03"},"geometry":{"coordinates":[-73.919763,40.803399],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4020,"name":"Bradhurst Ave & W 148 St","capacity":22,"short_name":"7992.04"},"geometry":{"coordinates":[-73.941616,40.825125],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4021,"name":"E 138 St & Grand Concourse","capacity":21,"short_name":"7803.08"},"geometry":{"coordinates":[-73.930605,40.813224],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4023,"name":"Adam Clayton Powell Blvd & W 141 St","capacity":0,"short_name":"7893.05"},"geometry":{"coordinates":[-73.941057,40.819241],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4024,"name":"Macombs Pl & W 152 St","capacity":33,"short_name":"8029.28"},"geometry":{"coordinates":[-73.937948,40.826406],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4025,"name":"Edgecombe Ave & W 150 St","capacity":20,"short_name":"8049.05"},"geometry":{"coordinates":[-73.941427,40.826881],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4032,"name":"E 155 St & Courtlandt Ave","capacity":19,"short_name":"7940.02"},"geometry":{"coordinates":[-73.917579,40.82057],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4034,"name":"Hamilton Pl & W 138 St","capacity":27,"short_name":"7920.01"},"geometry":{"coordinates":[-73.952761,40.821728],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4035,"name":"Broadway & W 153 St","capacity":20,"short_name":"8089.05"},"geometry":{"coordinates":[-73.946665,40.831327],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4036,"name":"Motorgate","capacity":36,"short_name":"6814.01"},"geometry":{"coordinates":[-73.9477213,40.7639089],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4037,"name":"Roosevelt Island Tramway","capacity":39,"short_name":"6599.01"},"geometry":{"coordinates":[-73.9536,40.757284],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4038,"name":"Southpoint Park","capacity":29,"short_name":"6566.01"},"geometry":{"coordinates":[-73.95865201950072,40.75370225419114],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4041,"name":"Adam Clayton Powell Blvd & W 151 St","capacity":18,"short_name":"8009.05"},"geometry":{"coordinates":[-73.936232,40.825289],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4044,"name":"8 Ave & W 38 St","capacity":49,"short_name":"6526.05"},"geometry":{"coordinates":[-73.99177,40.75461],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4045,"name":"West End Ave & W 60 St","capacity":39,"short_name":"7059.08"},"geometry":{"coordinates":[-73.99005,40.77237],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4058,"name":"Madison Av & E 51 St","capacity":41,"short_name":"6659.09"},"geometry":{"coordinates":[-73.97513,40.75863],"type":"Point"}}
+{"type":"Feature","properties":{"station_id":4064,"name":"Southern Blvd & E 142 St","capacity":23,"short_name":"7719.13"},"geometry":{"coordinates":[-73.90809774398804,40.807347437082],"type":"Point"}}

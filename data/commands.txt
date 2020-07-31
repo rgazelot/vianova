@@ -1,0 +1,23 @@
+Create source info
+curl -X POST "https://api.mapbox.com/tilesets/v1/sources/rgazelot/stations?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A" -F file=@/Users/Admin/Sites/vianova/data/stations_information.ndjson --header "Content-Type: multipart/form-data"
+
+List 
+curl -X GET "https://api.mapbox.com/tilesets/v1/sources/rgazelot?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A"
+
+Get source info
+curl -X GET "https://api.mapbox.com/tilesets/v1/sources/rgazelot/stations?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A"
+
+Delete
+curl -X DELETE "https://api.mapbox.com/tilesets/v1/sources/rgazelot/stations?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A"
+
+Validate Recipe
+curl -X PUT "https://api.mapbox.com/tilesets/v1/validateRecipe?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A" -d @recipe.json --header "Content-Type:application/json"
+
+Create Tileset
+curl -X POST "https://api.mapbox.com/tilesets/v1/rgazelot.stations?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A" -d @tileset-recipe.json --header "Content-Type:application/json"
+
+Publish
+curl -X POST "https://api.mapbox.com/tilesets/v1/rgazelot.stations/publish?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A"
+
+Queue
+curl -X PUT "https://api.mapbox.com/tilesets/v1/queue?access_token=sk.eyJ1IjoicmdhemVsb3QiLCJhIjoiY2tkNXFrZzVkMWwxNjMxbnR3YWdhcjJvdyJ9.TPEB1kFfHUcUVU073d4V4A"

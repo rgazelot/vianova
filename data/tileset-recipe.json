@@ -1,0 +1,26 @@
+{
+  "recipe": {
+    "version": 1,
+    "layers": {
+      "stations": {
+        "source": "mapbox://tileset-source/rgazelot/stations",
+        "minzoom": 5,
+        "maxzoom": 16,
+        "features": {
+          "attributes": {
+            "set": {
+              "name": ["get", "name"],
+              "capacity": ["get", "capacity"],
+              "short_name": ["get", "short_name"]
+            },
+            "allowed_output": ["name", "capacity", "short_name"]
+          }
+        },
+        "tiles": {
+          "id": ["get", "station_id"]
+        }
+      }
+    }
+  },
+  "name": "stations-1"
+}
